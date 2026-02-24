@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SportBetLive</string>
+    <string name="app_name">SportBet Live Score Game</string>
+	<string name="app_name_launcher">SportBetLive</string>
     <string name="world_football">World Football</string>
     <string name="euro_football">European Football</string>
     <string name="basketball">Basketball</string>
