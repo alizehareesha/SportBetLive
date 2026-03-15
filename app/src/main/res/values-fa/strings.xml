@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">تأیید</string>
+    <string name="select_country">کشور خود را انتخاب کنید</string>
+    <string name="enter_phone">شماره تلفن خود را وارد کنید</string>
+    <string name="enter_sms_code">کد پیامک را وارد کنید</string>
+    <string name="send_code">ارسال کد</string>
+    <string name="continue_btn">ادامه</string>
+    <string name="code_sent">کد ارسال شد!</string>
+    <string name="invalid_code">کد نامعتبر</string>
+    <string name="phone_hint">شماره تلفن</string>
+    <string name="code_hint">کد</string>
+    <string name="waiting_for_code">در انتظار کد…</string>
+    <string name="search_country">جستجوی کشور</string>
+</resources>

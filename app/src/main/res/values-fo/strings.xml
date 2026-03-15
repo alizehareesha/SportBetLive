@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Vottun</string>
+    <string name="select_country">Vel land</string>
+    <string name="enter_phone">Skriva telefontal</string>
+    <string name="enter_sms_code">Skriva SMS kotu</string>
+    <string name="send_code">Send kotu</string>
+    <string name="continue_btn">Halt fram</string>
+    <string name="code_sent">Kota send!</string>
+    <string name="invalid_code">Skeiv kota</string>
+    <string name="phone_hint">Telefontal</string>
+    <string name="code_hint">Kota</string>
+    <string name="waiting_for_code">Bidar eftir kotu...</string>
+    <string name="search_country">Leita eftir landi</string>
+</resources>

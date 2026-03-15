@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">التحقق</string>
+    <string name="select_country">اختر بلدك</string>
+    <string name="enter_phone">أدخل رقم هاتفك</string>
+    <string name="enter_sms_code">أدخل رمز SMS</string>
+    <string name="send_code">إرسال الرمز</string>
+    <string name="continue_btn">متابعة</string>
+    <string name="code_sent">تم إرسال الرمز!</string>
+    <string name="invalid_code">رمز غير صالح</string>
+    <string name="phone_hint">رقم الهاتف</string>
+    <string name="code_hint">الرمز</string>
+    <string name="waiting_for_code">في انتظار الرمز…</string>
+    <string name="search_country">البحث عن بلد</string>
+</resources>

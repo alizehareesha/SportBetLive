@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Staðfesting</string>
+    <string name="select_country">Veldu land þitt</string>
+    <string name="enter_phone">Sláðu inn símanúmerið þitt</string>
+    <string name="enter_sms_code">Sláðu inn SMS kóða</string>
+    <string name="send_code">Senda kóða</string>
+    <string name="continue_btn">Halda áfram</string>
+    <string name="code_sent">Kóði sendur!</string>
+    <string name="invalid_code">Ógildur kóði</string>
+    <string name="phone_hint">Símanúmer</string>
+    <string name="code_hint">Kóði</string>
+    <string name="waiting_for_code">Bíð eftir kóða…</string>
+    <string name="search_country">Leita að landi</string>
+</resources>

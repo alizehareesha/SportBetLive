@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Tassyklama</string>
+    <string name="select_country">Yurdunuzy saylan</string>
+    <string name="enter_phone">Telefon belginizi girisin</string>
+    <string name="enter_sms_code">SMS kodyny girisin</string>
+    <string name="send_code">Kody iber</string>
+    <string name="continue_btn">Dowam et</string>
+    <string name="code_sent">Kod iberildi!</string>
+    <string name="invalid_code">Nadogry kod</string>
+    <string name="phone_hint">Telefon belgisi</string>
+    <string name="code_hint">Kod</string>
+    <string name="waiting_for_code">Koda garasylya...</string>
+    <string name="search_country">Yurt gozle</string>
+</resources>

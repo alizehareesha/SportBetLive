@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Баталгаажуулалт</string>
+    <string name="select_country">Улсаа сонгоно уу</string>
+    <string name="enter_phone">Утасны дугаараа оруулна уу</string>
+    <string name="enter_sms_code">SMS кодоо оруулна уу</string>
+    <string name="send_code">Код илгээх</string>
+    <string name="continue_btn">Үргэлжлүүлэх</string>
+    <string name="code_sent">Код илгээгдлээ!</string>
+    <string name="invalid_code">Буруу код</string>
+    <string name="phone_hint">Утасны дугаар</string>
+    <string name="code_hint">Код</string>
+    <string name="waiting_for_code">Код хүлээж байна…</string>
+    <string name="search_country">Улс хайх</string>
+</resources>

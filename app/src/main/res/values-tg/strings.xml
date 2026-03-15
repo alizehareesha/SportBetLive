@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Тасдиқ</string>
+    <string name="select_country">Кишвари худро интихоб кунед</string>
+    <string name="enter_phone">Рақами телефони худро ворид кунед</string>
+    <string name="enter_sms_code">Рамзи SMS-ро ворид кунед</string>
+    <string name="send_code">Фиристодани рамз</string>
+    <string name="continue_btn">Идома додан</string>
+    <string name="code_sent">Рамз фиристода шуд!</string>
+    <string name="invalid_code">Рамзи нодуруст</string>
+    <string name="phone_hint">Рақами телефон</string>
+    <string name="code_hint">Рамз</string>
+    <string name="waiting_for_code">Интизории рамз…</string>
+    <string name="search_country">Ҷустуҷӯи кишвар</string>
+</resources>

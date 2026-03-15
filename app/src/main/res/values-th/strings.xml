@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">การยืนยัน</string>
+    <string name="select_country">เลือกประเทศของคุณ</string>
+    <string name="enter_phone">กรอกหมายเลขโทรศัพท์</string>
+    <string name="enter_sms_code">กรอกรหัส SMS</string>
+    <string name="send_code">ส่งรหัส</string>
+    <string name="continue_btn">ดำเนินการต่อ</string>
+    <string name="code_sent">ส่งรหัสแล้ว!</string>
+    <string name="invalid_code">รหัสไม่ถูกต้อง</string>
+    <string name="phone_hint">หมายเลขโทรศัพท์</string>
+    <string name="code_hint">รหัส</string>
+    <string name="waiting_for_code">รอรหัส…</string>
+    <string name="search_country">ค้นหาประเทศ</string>
+</resources>

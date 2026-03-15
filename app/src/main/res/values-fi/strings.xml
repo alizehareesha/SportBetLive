@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Vahvistus</string>
+    <string name="select_country">Valitse maasi</string>
+    <string name="enter_phone">Syötä puhelinnumerosi</string>
+    <string name="enter_sms_code">Syötä SMS-koodi</string>
+    <string name="send_code">Lähetä koodi</string>
+    <string name="continue_btn">Jatka</string>
+    <string name="code_sent">Koodi lähetetty!</string>
+    <string name="invalid_code">Virheellinen koodi</string>
+    <string name="phone_hint">Puhelinnumero</string>
+    <string name="code_hint">Koodi</string>
+    <string name="waiting_for_code">Odotetaan koodia…</string>
+    <string name="search_country">Hae maata</string>
+</resources>

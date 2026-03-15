@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Fanamarinana</string>
+    <string name="select_country">Safidio ny firenenanao</string>
+    <string name="enter_phone">Ampidiro ny laharan-telefoninao</string>
+    <string name="enter_sms_code">Ampidiro ny kaody SMS</string>
+    <string name="send_code">Mandefa kaody</string>
+    <string name="continue_btn">Tohizo</string>
+    <string name="code_sent">Kaody nalefa!</string>
+    <string name="invalid_code">Kaody diso</string>
+    <string name="phone_hint">Laharan-telefaona</string>
+    <string name="code_hint">Kaody</string>
+    <string name="waiting_for_code">Miandry kaody...</string>
+    <string name="search_country">Tadiavo firenena</string>
+</resources>

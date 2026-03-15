@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verifikasi</string>
+    <string name="select_country">Pilih negara Anda</string>
+    <string name="enter_phone">Masukkan nomor telepon Anda</string>
+    <string name="enter_sms_code">Masukkan kode SMS</string>
+    <string name="send_code">Kirim kode</string>
+    <string name="continue_btn">Lanjutkan</string>
+    <string name="code_sent">Kode terkirim!</string>
+    <string name="invalid_code">Kode tidak valid</string>
+    <string name="phone_hint">Nomor telepon</string>
+    <string name="code_hint">Kode</string>
+    <string name="waiting_for_code">Menunggu kode…</string>
+    <string name="search_country">Cari negara</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Uppernarsaat</string>
+    <string name="select_country">Nunat toqqaruk</string>
+    <string name="enter_phone">Oqarasuaat normui allaguk</string>
+    <string name="enter_sms_code">SMS-kode allaguk</string>
+    <string name="send_code">Kode nassiullugu</string>
+    <string name="continue_btn">Ingerlaqqillugu</string>
+    <string name="code_sent">Kode nassiunneqarpoq!</string>
+    <string name="invalid_code">Kode eqqunngitsoq</string>
+    <string name="phone_hint">Oqarasuaat normui</string>
+    <string name="code_hint">Kode</string>
+    <string name="waiting_for_code">Kode utaqqillugu...</string>
+    <string name="search_country">Nunat ujarleqqillugu</string>
+</resources>

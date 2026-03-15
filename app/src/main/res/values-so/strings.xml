@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Xaqiijinta</string>
+    <string name="select_country">Dooro wadankaaga</string>
+    <string name="enter_phone">Geli lambarka taleefankaaga</string>
+    <string name="enter_sms_code">Geli koodhka SMS</string>
+    <string name="send_code">Dir koodhka</string>
+    <string name="continue_btn">Sii wad</string>
+    <string name="code_sent">Koodhka waa la diray!</string>
+    <string name="invalid_code">Koodh khaldan</string>
+    <string name="phone_hint">Lambarka taleefanka</string>
+    <string name="code_hint">Koodh</string>
+    <string name="waiting_for_code">Sugitaanka koodhka...</string>
+    <string name="search_country">Raadi wadan</string>
+</resources>

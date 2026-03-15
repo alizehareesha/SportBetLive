@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">सत्यापन</string>
+    <string name="select_country">अपना देश चुनें</string>
+    <string name="enter_phone">अपना फ़ोन नंबर दर्ज करें</string>
+    <string name="enter_sms_code">SMS कोड दर्ज करें</string>
+    <string name="send_code">कोड भेजें</string>
+    <string name="continue_btn">जारी रखें</string>
+    <string name="code_sent">कोड भेजा गया!</string>
+    <string name="invalid_code">अमान्य कोड</string>
+    <string name="phone_hint">फ़ोन नंबर</string>
+    <string name="code_hint">कोड</string>
+    <string name="waiting_for_code">कोड की प्रतीक्षा…</string>
+    <string name="search_country">देश खोजें</string>
+</resources>

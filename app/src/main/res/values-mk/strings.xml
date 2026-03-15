@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Верификација</string>
+    <string name="select_country">Изберете ја вашата земја</string>
+    <string name="enter_phone">Внесете го вашиот телефонски број</string>
+    <string name="enter_sms_code">Внесете го SMS кодот</string>
+    <string name="send_code">Испрати код</string>
+    <string name="continue_btn">Продолжи</string>
+    <string name="code_sent">Кодот е испратен!</string>
+    <string name="invalid_code">Невалиден код</string>
+    <string name="phone_hint">Телефонски број</string>
+    <string name="code_hint">Код</string>
+    <string name="waiting_for_code">Чекање на код…</string>
+    <string name="search_country">Пребарај земја</string>
+</resources>

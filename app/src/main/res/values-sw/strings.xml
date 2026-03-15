@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Uthibitishaji</string>
+    <string name="select_country">Chagua nchi yako</string>
+    <string name="enter_phone">Ingiza nambari yako ya simu</string>
+    <string name="enter_sms_code">Ingiza msimbo wa SMS</string>
+    <string name="send_code">Tuma msimbo</string>
+    <string name="continue_btn">Endelea</string>
+    <string name="code_sent">Msimbo umetumwa!</string>
+    <string name="invalid_code">Msimbo batili</string>
+    <string name="phone_hint">Nambari ya simu</string>
+    <string name="code_hint">Msimbo</string>
+    <string name="waiting_for_code">Kusubiri msimbo…</string>
+    <string name="search_country">Tafuta nchi</string>
+</resources>

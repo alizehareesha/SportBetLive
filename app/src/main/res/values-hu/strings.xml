@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Ellenőrzés</string>
+    <string name="select_country">Válassza ki országát</string>
+    <string name="enter_phone">Adja meg telefonszámát</string>
+    <string name="enter_sms_code">Adja meg az SMS kódot</string>
+    <string name="send_code">Kód küldése</string>
+    <string name="continue_btn">Tovább</string>
+    <string name="code_sent">Kód elküldve!</string>
+    <string name="invalid_code">Érvénytelen kód</string>
+    <string name="phone_hint">Telefonszám</string>
+    <string name="code_hint">Kód</string>
+    <string name="waiting_for_code">Várakozás a kódra…</string>
+    <string name="search_country">Ország keresése</string>
+</resources>

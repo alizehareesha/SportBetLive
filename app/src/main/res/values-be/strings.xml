@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Верыфікацыя</string>
+    <string name="select_country">Абярыце вашу краіну</string>
+    <string name="enter_phone">Увядзіце нумар тэлефона</string>
+    <string name="enter_sms_code">Увядзіце SMS код</string>
+    <string name="send_code">Адправіць код</string>
+    <string name="continue_btn">Працягнуць</string>
+    <string name="code_sent">Код адпраўлены!</string>
+    <string name="invalid_code">Няправільны код</string>
+    <string name="phone_hint">Нумар тэлефона</string>
+    <string name="code_hint">Код</string>
+    <string name="waiting_for_code">Чаканне кода…</string>
+    <string name="search_country">Пошук краіны</string>
+</resources>

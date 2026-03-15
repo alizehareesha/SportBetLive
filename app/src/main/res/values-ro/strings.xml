@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verificare</string>
+    <string name="select_country">Selectează țara ta</string>
+    <string name="enter_phone">Introdu numărul de telefon</string>
+    <string name="enter_sms_code">Introdu codul SMS</string>
+    <string name="send_code">Trimite codul</string>
+    <string name="continue_btn">Continuă</string>
+    <string name="code_sent">Cod trimis!</string>
+    <string name="invalid_code">Cod invalid</string>
+    <string name="phone_hint">Număr de telefon</string>
+    <string name="code_hint">Cod</string>
+    <string name="waiting_for_code">Se așteaptă codul…</string>
+    <string name="search_country">Caută țara</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">인증</string>
+    <string name="select_country">국가를 선택하세요</string>
+    <string name="enter_phone">전화번호를 입력하세요</string>
+    <string name="enter_sms_code">SMS 코드를 입력하세요</string>
+    <string name="send_code">코드 보내기</string>
+    <string name="continue_btn">계속</string>
+    <string name="code_sent">코드가 전송되었습니다!</string>
+    <string name="invalid_code">잘못된 코드</string>
+    <string name="phone_hint">전화번호</string>
+    <string name="code_hint">코드</string>
+    <string name="waiting_for_code">코드 대기 중…</string>
+    <string name="search_country">국가 검색</string>
+</resources>

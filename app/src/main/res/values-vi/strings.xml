@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Xác minh</string>
+    <string name="select_country">Chọn quốc gia của bạn</string>
+    <string name="enter_phone">Nhập số điện thoại của bạn</string>
+    <string name="enter_sms_code">Nhập mã SMS</string>
+    <string name="send_code">Gửi mã</string>
+    <string name="continue_btn">Tiếp tục</string>
+    <string name="code_sent">Đã gửi mã!</string>
+    <string name="invalid_code">Mã không hợp lệ</string>
+    <string name="phone_hint">Số điện thoại</string>
+    <string name="code_hint">Mã</string>
+    <string name="waiting_for_code">Đang chờ mã…</string>
+    <string name="search_country">Tìm quốc gia</string>
+</resources>
