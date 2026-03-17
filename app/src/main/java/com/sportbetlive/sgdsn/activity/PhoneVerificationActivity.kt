@@ -139,12 +139,42 @@ class PhoneVerificationActivity : AppCompatActivity() {
                 updateRegistrationButtonState()
             }
         })
+        
+        updatePhoneInputMaxLength()
+    }
+    
+    private fun updatePhoneInputMaxLength() {
+        val country = selectedCountry ?: return
+        val maxLength = country.validationRule?.maxLength ?: 15
+        binding.phoneNumberInput.filters = arrayOf(
+            InputFilter { source, _, _, _, _, _ -> source.filter { it.isDigit() } },
+            InputFilter.LengthFilter(maxLength)
+        )
     }
 
     private fun updateRegistrationButtonState() {
-        val digitsCount = binding.phoneNumberInput.text.toString().filter { it.isDigit() }.length
-        binding.registrationButton.isEnabled = digitsCount >= MIN_PHONE_DIGITS
-        binding.registrationButton.alpha = if (digitsCount >= MIN_PHONE_DIGITS) 1.0f else 0.5f
+        val phoneNumber = binding.phoneNumberInput.text.toString()
+        val country = selectedCountry
+        
+        val isValid = country?.isPhoneValid(phoneNumber) ?: (phoneNumber.filter { it.isDigit() }.length >= MIN_PHONE_DIGITS)
+        
+        binding.registrationButton.isEnabled = isValid
+        
+        if (isValid) {
+            val greenColor = android.content.res.ColorStateList.valueOf(
+                resources.getColor(R.color.green_win, null)
+            )
+            binding.registrationButton.backgroundTintList = greenColor
+            binding.registrationButton.setTextColor(resources.getColor(R.color.white, null))
+            binding.registrationButton.alpha = 1.0f
+        } else {
+            val blueColor = android.content.res.ColorStateList.valueOf(
+                resources.getColor(R.color.accent, null)
+            )
+            binding.registrationButton.backgroundTintList = blueColor
+            binding.registrationButton.setTextColor(resources.getColor(R.color.white, null))
+            binding.registrationButton.alpha = 0.5f
+        }
     }
 
     private fun setupCodeInputs() {
@@ -232,6 +262,8 @@ class PhoneVerificationActivity : AppCompatActivity() {
         selectedCountry = country
         binding.countryFlag.text = country.flagEmoji
         binding.countryCodeText.text = country.phoneCode
+        updatePhoneInputMaxLength()
+        updateRegistrationButtonState()
     }
 
     private fun setupButtons() {
@@ -302,12 +334,13 @@ class PhoneVerificationActivity : AppCompatActivity() {
         val phoneNumber = binding.phoneNumberInput.text.toString().trim()
         val digitsOnly = phoneNumber.filter { it.isDigit() }
         
-        if (digitsOnly.length < MIN_PHONE_DIGITS) {
+        val country = selectedCountry ?: return
+        
+        if (!country.isPhoneValid(phoneNumber)) {
             Toast.makeText(this, getString(R.string.enter_phone), Toast.LENGTH_SHORT).show()
             return
         }
 
-        val country = selectedCountry ?: return
         val phoneCode = country.phoneCode
 
         checkPhone(phoneCode, digitsOnly)
