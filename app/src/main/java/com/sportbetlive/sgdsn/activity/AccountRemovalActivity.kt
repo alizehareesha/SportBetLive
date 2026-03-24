@@ -50,6 +50,8 @@ class AccountRemovalActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
+        CookieManager.getInstance().setAcceptCookie(true)
+
         binding = ActivityAccountRemovalBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -94,6 +96,7 @@ class AccountRemovalActivity : AppCompatActivity() {
                 override fun onPageFinished(view: WebView?, link: String?) {
                     super.onPageFinished(view, link)
                     binding.loadingIndicator.visibility = View.GONE
+                    CookieManager.getInstance().flush()
                     link?.let { checkForRemovalConfirmation(it) }
                 }
 
@@ -132,6 +135,7 @@ class AccountRemovalActivity : AppCompatActivity() {
     private fun checkForRemovalConfirmation(destination: String) {
         if (!removalDetected && removalPattern.containsMatchIn(destination)) {
             removalDetected = true
+            binding.closeButton.visibility = View.GONE
             Handler(Looper.getMainLooper()).postDelayed({
                 clearAllAppData()
                 navigateToPhoneScreen()
@@ -177,18 +181,20 @@ class AccountRemovalActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         binding.contentPortal.onResume()
+        CookieManager.getInstance().setAcceptCookie(true)
     }
 
     override fun onPause() {
         super.onPause()
         binding.contentPortal.onPause()
+        CookieManager.getInstance().flush()
     }
 
     override fun onDestroy() {
+        CookieManager.getInstance().flush()
         binding.contentPortal.apply {
             stopLoading()
             clearHistory()
-            clearCache(true)
             loadUrl("about:blank")
             removeAllViews()
             destroy()

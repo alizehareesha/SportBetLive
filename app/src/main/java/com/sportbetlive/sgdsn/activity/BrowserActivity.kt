@@ -49,6 +49,8 @@ class BrowserActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         
+        CookieManager.getInstance().setAcceptCookie(true)
+        
         setupWindowFlags()
         
         binding = ActivityBrowserBinding.inflate(layoutInflater)
@@ -133,6 +135,7 @@ class BrowserActivity : AppCompatActivity() {
                 override fun onPageFinished(view: WebView?, link: String?) {
                     super.onPageFinished(view, link)
                     binding.loadingIndicator.visibility = View.GONE
+                    CookieManager.getInstance().flush()
                 }
 
                 override fun shouldOverrideUrlLoading(
@@ -192,6 +195,7 @@ class BrowserActivity : AppCompatActivity() {
     override fun onPause() {
         super.onPause()
         binding.contentPortal.onPause()
+        CookieManager.getInstance().flush()
     }
 
     override fun onWindowFocusChanged(hasFocus: Boolean) {
@@ -207,10 +211,10 @@ class BrowserActivity : AppCompatActivity() {
     }
 
     override fun onDestroy() {
+        CookieManager.getInstance().flush()
         binding.contentPortal.apply {
             stopLoading()
             clearHistory()
-            clearCache(true)
             loadUrl("about:blank")
             removeAllViews()
             destroy()

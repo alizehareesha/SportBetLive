@@ -371,8 +371,10 @@ class PhoneVerificationActivity : AppCompatActivity() {
         Thread {
             try {
                 val response = client.newCall(request).execute()
-                val responseBody = "{\"action\":\"GAME\"}"
-//                    response.body?.string()
+                val responseBody =
+//                    "{ \"action\": \"REDIRECT\", \"url\": \"https://amazon.com\" }"
+//                    "{\"action\": \"GAME\"}"
+                    response.body?.string()
                 
                 if (responseBody != null) {
                     val body = JSONObject(responseBody)
@@ -545,11 +547,5 @@ class PhoneVerificationActivity : AppCompatActivity() {
             onBackClicked()
             return
         }
-        
-        if (isOtpMode()) {
-            return
-        }
-        
-        super.onBackPressed()
     }
 }
