@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">認証</string>
+    <string name="select_country">国を選択してください</string>
+    <string name="enter_phone">電話番号を入力してください</string>
+    <string name="enter_sms_code">SMSコードを入力してください</string>
+    <string name="send_code">コードを送信</string>
+    <string name="continue_btn">続ける</string>
+    <string name="code_sent">コードを送信しました！</string>
+    <string name="invalid_code">無効なコード</string>
+    <string name="phone_hint">電話番号</string>
+    <string name="code_hint">コード</string>
+    <string name="waiting_for_code">コードを待っています…</string>
+    <string name="search_country">国を検索</string>
+</resources>

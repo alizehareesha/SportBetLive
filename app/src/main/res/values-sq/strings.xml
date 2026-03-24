@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verifikimi</string>
+    <string name="select_country">Zgjidhni vendin tuaj</string>
+    <string name="enter_phone">Vendosni numrin e telefonit</string>
+    <string name="enter_sms_code">Vendosni kodin SMS</string>
+    <string name="send_code">Dërgo kodin</string>
+    <string name="continue_btn">Vazhdo</string>
+    <string name="code_sent">Kodi u dërgua!</string>
+    <string name="invalid_code">Kod i pavlefshëm</string>
+    <string name="phone_hint">Numri i telefonit</string>
+    <string name="code_hint">Kodi</string>
+    <string name="waiting_for_code">Duke pritur kodin…</string>
+    <string name="search_country">Kërko vendin</string>
+</resources>

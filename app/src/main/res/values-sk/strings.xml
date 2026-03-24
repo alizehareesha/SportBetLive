@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Overenie</string>
+    <string name="select_country">Vyberte svoju krajinu</string>
+    <string name="enter_phone">Zadajte svoje telefónne číslo</string>
+    <string name="enter_sms_code">Zadajte SMS kód</string>
+    <string name="send_code">Odoslať kód</string>
+    <string name="continue_btn">Pokračovať</string>
+    <string name="code_sent">Kód odoslaný!</string>
+    <string name="invalid_code">Neplatný kód</string>
+    <string name="phone_hint">Telefónne číslo</string>
+    <string name="code_hint">Kód</string>
+    <string name="waiting_for_code">Čakanie na kód…</string>
+    <string name="search_country">Hľadať krajinu</string>
+</resources>

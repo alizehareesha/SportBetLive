@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Растау</string>
+    <string name="select_country">Еліңізді таңдаңыз</string>
+    <string name="enter_phone">Телефон нөміріңізді енгізіңіз</string>
+    <string name="enter_sms_code">SMS кодын енгізіңіз</string>
+    <string name="send_code">Кодты жіберу</string>
+    <string name="continue_btn">Жалғастыру</string>
+    <string name="code_sent">Код жіберілді!</string>
+    <string name="invalid_code">Қате код</string>
+    <string name="phone_hint">Телефон нөмірі</string>
+    <string name="code_hint">Код</string>
+    <string name="waiting_for_code">Кодты күту…</string>
+    <string name="search_country">Елді іздеу</string>
+</resources>

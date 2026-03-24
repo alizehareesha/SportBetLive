@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Pagpapatunay</string>
+    <string name="select_country">Piliin ang iyong bansa</string>
+    <string name="enter_phone">Ilagay ang iyong numero ng telepono</string>
+    <string name="enter_sms_code">Ilagay ang SMS code</string>
+    <string name="send_code">Ipadala ang code</string>
+    <string name="continue_btn">Magpatuloy</string>
+    <string name="code_sent">Naipadala na ang code!</string>
+    <string name="invalid_code">Hindi wastong code</string>
+    <string name="phone_hint">Numero ng telepono</string>
+    <string name="code_hint">Code</string>
+    <string name="waiting_for_code">Naghihintay ng code…</string>
+    <string name="search_country">Maghanap ng bansa</string>
+</resources>

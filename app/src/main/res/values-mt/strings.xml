@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verifika</string>
+    <string name="select_country">Agzel il-pajjiz tieghek</string>
+    <string name="enter_phone">Dahal in-numru tat-telefon tieghek</string>
+    <string name="enter_sms_code">Dahal il-kodici SMS</string>
+    <string name="send_code">Ibghat il-kodici</string>
+    <string name="continue_btn">Kompli</string>
+    <string name="code_sent">Il-kodici ntbaghat!</string>
+    <string name="invalid_code">Kodici hazin</string>
+    <string name="phone_hint">Numru tat-telefon</string>
+    <string name="code_hint">Kodici</string>
+    <string name="waiting_for_code">Nistenna l-kodici...</string>
+    <string name="search_country">Fittex pajjiz</string>
+</resources>

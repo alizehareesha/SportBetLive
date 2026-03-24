@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Επαλήθευση</string>
+    <string name="select_country">Επιλέξτε τη χώρα σας</string>
+    <string name="enter_phone">Εισάγετε τον αριθμό τηλεφώνου σας</string>
+    <string name="enter_sms_code">Εισάγετε τον κωδικό SMS</string>
+    <string name="send_code">Αποστολή κωδικού</string>
+    <string name="continue_btn">Συνέχεια</string>
+    <string name="code_sent">Ο κωδικός εστάλη!</string>
+    <string name="invalid_code">Μη έγκυρος κωδικός</string>
+    <string name="phone_hint">Αριθμός τηλεφώνου</string>
+    <string name="code_hint">Κωδικός</string>
+    <string name="waiting_for_code">Αναμονή για κωδικό…</string>
+    <string name="search_country">Αναζήτηση χώρας</string>
+</resources>

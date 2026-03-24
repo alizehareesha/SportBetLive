@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Faamaonia</string>
+    <string name="select_country">Filifili lou atunuu</string>
+    <string name="enter_phone">Tusi mai lou numera telefoni</string>
+    <string name="enter_sms_code">Tusi mai le code SMS</string>
+    <string name="send_code">Lafo le code</string>
+    <string name="continue_btn">Faaauau</string>
+    <string name="code_sent">Ua lafo le code!</string>
+    <string name="invalid_code">Code sese</string>
+    <string name="phone_hint">Numera telefoni</string>
+    <string name="code_hint">Code</string>
+    <string name="waiting_for_code">Faatali mo le code...</string>
+    <string name="search_country">Saili atunuu</string>
+</resources>

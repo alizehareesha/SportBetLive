@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Tasdiqlash</string>
+    <string name="select_country">Mamlakatni tanlang</string>
+    <string name="enter_phone">Telefon raqamingizni kiriting</string>
+    <string name="enter_sms_code">SMS kodini kiriting</string>
+    <string name="send_code">Kodni yuborish</string>
+    <string name="continue_btn">Davom etish</string>
+    <string name="code_sent">Kod yuborildi!</string>
+    <string name="invalid_code">Noto\'g\'ri kod</string>
+    <string name="phone_hint">Telefon raqami</string>
+    <string name="code_hint">Kod</string>
+    <string name="waiting_for_code">Kod kutilmoqda…</string>
+    <string name="search_country">Mamlakat qidirish</string>
+</resources>

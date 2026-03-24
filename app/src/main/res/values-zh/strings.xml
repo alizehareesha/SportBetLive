@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">验证</string>
+    <string name="select_country">选择您的国家</string>
+    <string name="enter_phone">输入您的电话号码</string>
+    <string name="enter_sms_code">输入短信验证码</string>
+    <string name="send_code">发送验证码</string>
+    <string name="continue_btn">继续</string>
+    <string name="code_sent">验证码已发送！</string>
+    <string name="invalid_code">验证码无效</string>
+    <string name="phone_hint">电话号码</string>
+    <string name="code_hint">验证码</string>
+    <string name="waiting_for_code">等待验证码…</string>
+    <string name="search_country">搜索国家</string>
+</resources>

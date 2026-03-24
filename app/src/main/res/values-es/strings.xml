@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verificación</string>
+    <string name="select_country">Selecciona tu país</string>
+    <string name="enter_phone">Introduce tu número de teléfono</string>
+    <string name="enter_sms_code">Introduce el código SMS</string>
+    <string name="send_code">Enviar código</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="code_sent">¡Código enviado!</string>
+    <string name="invalid_code">Código incorrecto</string>
+    <string name="phone_hint">Número de teléfono</string>
+    <string name="code_hint">Código</string>
+    <string name="waiting_for_code">Esperando código…</string>
+    <string name="search_country">Buscar país</string>
+</resources>

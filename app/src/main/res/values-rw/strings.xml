@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Kwemeza</string>
+    <string name="select_country">Hitamo igihugu cyawe</string>
+    <string name="enter_phone">Andika nimero yawe ya telefoni</string>
+    <string name="enter_sms_code">Andika kode ya SMS</string>
+    <string name="send_code">Ohereza kode</string>
+    <string name="continue_btn">Komeza</string>
+    <string name="code_sent">Kode yoherejwe!</string>
+    <string name="invalid_code">Kode itari yo</string>
+    <string name="phone_hint">Nimero ya telefoni</string>
+    <string name="code_hint">Kode</string>
+    <string name="waiting_for_code">Gutegereza kode...</string>
+    <string name="search_country">Shakisha igihugu</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verificatie</string>
+    <string name="select_country">Selecteer je land</string>
+    <string name="enter_phone">Voer je telefoonnummer in</string>
+    <string name="enter_sms_code">Voer de SMS-code in</string>
+    <string name="send_code">Verstuur code</string>
+    <string name="continue_btn">Doorgaan</string>
+    <string name="code_sent">Code verzonden!</string>
+    <string name="invalid_code">Ongeldige code</string>
+    <string name="phone_hint">Telefoonnummer</string>
+    <string name="code_hint">Code</string>
+    <string name="waiting_for_code">Wachten op code…</string>
+    <string name="search_country">Zoek land</string>
+</resources>

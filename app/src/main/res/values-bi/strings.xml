@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verification</string>
+    <string name="select_country">Jusum kantri blong yu</string>
+    <string name="enter_phone">Raetem namba fon blong yu</string>
+    <string name="enter_sms_code">Raetem SMS kod</string>
+    <string name="send_code">Sendem kod</string>
+    <string name="continue_btn">Go hed</string>
+    <string name="code_sent">Kod i sendem finis!</string>
+    <string name="invalid_code">Kod i rong</string>
+    <string name="phone_hint">Namba fon</string>
+    <string name="code_hint">Kod</string>
+    <string name="waiting_for_code">Wet long kod...</string>
+    <string name="search_country">Lukaotem kantri</string>
+</resources>

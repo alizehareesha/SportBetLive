@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Kinnitus</string>
+    <string name="select_country">Valige oma riik</string>
+    <string name="enter_phone">Sisestage oma telefoninumber</string>
+    <string name="enter_sms_code">Sisestage SMS-kood</string>
+    <string name="send_code">Saada kood</string>
+    <string name="continue_btn">Jätka</string>
+    <string name="code_sent">Kood saadetud!</string>
+    <string name="invalid_code">Vigane kood</string>
+    <string name="phone_hint">Telefoninumber</string>
+    <string name="code_hint">Kood</string>
+    <string name="waiting_for_code">Ootan koodi…</string>
+    <string name="search_country">Otsi riiki</string>
+</resources>

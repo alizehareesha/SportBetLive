@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Fakapapau</string>
+    <string name="select_country">Fili ho fonua</string>
+    <string name="enter_phone">Tohi ho fika telefoni</string>
+    <string name="enter_sms_code">Tohi e kouti SMS</string>
+    <string name="send_code">Tuku e kouti</string>
+    <string name="continue_btn">Hokohoko atu</string>
+    <string name="code_sent">Kuo tuku e kouti!</string>
+    <string name="invalid_code">Kouti hala</string>
+    <string name="phone_hint">Fika telefoni</string>
+    <string name="code_hint">Kouti</string>
+    <string name="waiting_for_code">Tatali ki he kouti...</string>
+    <string name="search_country">Kumi fonua</string>
+</resources>

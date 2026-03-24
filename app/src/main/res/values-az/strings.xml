@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Doğrulama</string>
+    <string name="select_country">Ölkənizi seçin</string>
+    <string name="enter_phone">Telefon nömrənizi daxil edin</string>
+    <string name="enter_sms_code">SMS kodunu daxil edin</string>
+    <string name="send_code">Kodu göndər</string>
+    <string name="continue_btn">Davam et</string>
+    <string name="code_sent">Kod göndərildi!</string>
+    <string name="invalid_code">Yanlış kod</string>
+    <string name="phone_hint">Telefon nömrəsi</string>
+    <string name="code_hint">Kod</string>
+    <string name="waiting_for_code">Kod gözlənilir…</string>
+    <string name="search_country">Ölkə axtar</string>
+</resources>

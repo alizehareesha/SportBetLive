@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_verification_title">Verifisering</string>
+    <string name="select_country">Velg ditt land</string>
+    <string name="enter_phone">Skriv inn telefonnummeret ditt</string>
+    <string name="enter_sms_code">Skriv inn SMS-koden</string>
+    <string name="send_code">Send kode</string>
+    <string name="continue_btn">Fortsett</string>
+    <string name="code_sent">Kode sendt!</string>
+    <string name="invalid_code">Ugyldig kode</string>
+    <string name="phone_hint">Telefonnummer</string>
+    <string name="code_hint">Kode</string>
+    <string name="waiting_for_code">Venter på kode…</string>
+    <string name="search_country">Søk land</string>
+</resources>
