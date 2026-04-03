@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Verdensfotball</string>
+    <string name="euro_football">Europeisk fotball</string>
+    <string name="basketball">Basketball</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="global_champions_cup">Global Champions Cup</string>
+    <string name="continental_premier_league">Continental Premier League</string>
+    <string name="supreme_basketball_association">Supreme Basketball Association</string>
+    <string name="ice_legends_league">Ice Legends League</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters Tour</string>
+    <string name="standings">Tabell</string>
+    <string name="teams">Lag</string>
+    <string name="schedule">Terminliste</string>
+    <string name="simulate_match">Simuler kamp</string>
+    <string name="match_result">Kampresultat</string>
+    <string name="settings">Innstillinger</string>
+    <string name="reset_all_data">Tilbakestill alle data</string>
+    <string name="reset_confirm_title">Bekreft tilbakestilling</string>
+    <string name="reset_confirm_message">Er du sikker på at du vil tilbakestille alle data? Denne handlingen kan ikke angres.</string>
+    <string name="confirm">Bekreft</string>
+    <string name="cancel">Avbryt</string>
+    <string name="data_reset_success">Alle data er tilbakestilt</string>
+    <string name="delete_account">Slett konto</string>
+    <string name="delete">Slett</string>
+
+    <string name="select_home_team">Velg hjemmelag</string>
+    <string name="select_away_team">Velg bortelag</string>
+    <string name="team_details">Lagdetaljer</string>
+    <string name="founded">Grunnlagt</string>
+    <string name="arena">Arena</string>
+    <string name="played">K</string>
+    <string name="wins">S</string>
+    <string name="draws">U</string>
+    <string name="losses">T</string>
+    <string name="points">P</string>
+    <string name="match_simulator">Kampsimulator</string>
+    <string name="version_label">Versjon %s</string>
+    <string name="loading">Laster…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Sluttresultat</string>
+    <string name="match_events">Kamphendelser</string>
+    <string name="back">Tilbake</string>
+    <string name="simulating">Simulerer…</string>
+    <string name="period_scores">Periodresultater</string>
+    <string name="recent_matches">Nylige kamper</string>
+    <string name="no_matches_yet">Ingen kamper spilt ennå</string>
+
     <string name="phone_verification_title">Verifisering</string>
     <string name="select_country">Velg ditt land</string>
     <string name="enter_phone">Skriv inn telefonnummeret ditt</string>
@@ -11,5 +59,20 @@
     <string name="phone_hint">Telefonnummer</string>
     <string name="code_hint">Kode</string>
     <string name="waiting_for_code">Venter på kode…</string>
-    <string name="search_country">Søk land</string>
+    <string name="search_country">Søk etter land</string>
+    
+    <string name="welcome_title">VELKOMMEN</string>
+    <string name="welcome_subtitle">til den offisielle sportsappen</string>
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="phone_helper_text">Velg landskode og skriv inn telefonnummeret ditt</string>
+    <string name="registration_button">Registrering</string>
+    <string name="sms_confirmation_free">SMS-bekreftelse er gratis.\nDataene dine er kryptert.</string>
+    <string name="enter_sms_code_title">Skriv inn SMS-koden</string>
+    <string name="sms_sent_to_number">Vi sendte en kode til nummeret:</string>
+    <string name="resend_timer">Send på nytt om %d sek</string>
+    <string name="resend_code">Send koden på nytt</string>
+    <string name="confirm_button">Bekreft</string>
+    <string name="back_button">Tilbake</string>
+    <string name="terms_agreement_text">Ved å klikke på "Registrering" bekrefter du\nat du er 18 år, har lest og aksepterer</string>
+    <string name="terms_link">BRUKERVILKÅR OG PERSONVERNERKLÆRING</string>
 </resources>

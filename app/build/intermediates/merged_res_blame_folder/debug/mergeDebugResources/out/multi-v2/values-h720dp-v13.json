@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sportbetlive.sgdsn.app-mergeDebugResources-48:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/vadim/.gradle/caches/8.13/transforms/021fc1c0f00733182c6e30341a230ba1/transformed/appcompat-1.6.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

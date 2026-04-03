@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Bóng đá thế giới</string>
+    <string name="euro_football">Bóng đá châu Âu</string>
+    <string name="basketball">Bóng rổ</string>
+    <string name="hockey">Khúc côn cầu</string>
+    <string name="tennis">Quần vợt</string>
+    <string name="global_champions_cup">Cúp vô địch toàn cầu</string>
+    <string name="continental_premier_league">Giải ngoại hạng châu lục</string>
+    <string name="supreme_basketball_association">Hiệp hội bóng rổ tối cao</string>
+    <string name="ice_legends_league">Giải huyền thoại băng</string>
+    <string name="grand_slam_masters_tour">Tour Grand Slam Masters</string>
+    <string name="standings">Bảng xếp hạng</string>
+    <string name="teams">Đội</string>
+    <string name="schedule">Lịch thi đấu</string>
+    <string name="simulate_match">Mô phỏng trận đấu</string>
+    <string name="match_result">Kết quả trận đấu</string>
+    <string name="settings">Cài đặt</string>
+    <string name="reset_all_data">Đặt lại tất cả dữ liệu</string>
+    <string name="reset_confirm_title">Xác nhận đặt lại</string>
+    <string name="reset_confirm_message">Bạn có chắc chắn muốn đặt lại tất cả dữ liệu không? Hành động này không thể hoàn tác.</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="cancel">Hủy</string>
+    <string name="data_reset_success">Tất cả dữ liệu đã được đặt lại</string>
+    <string name="delete_account">Xóa tài khoản</string>
+    <string name="delete">Xóa</string>
+
+    <string name="select_home_team">Chọn đội nhà</string>
+    <string name="select_away_team">Chọn đội khách</string>
+    <string name="team_details">Chi tiết đội</string>
+    <string name="founded">Thành lập</string>
+    <string name="arena">Sân vận động</string>
+    <string name="played">T</string>
+    <string name="wins">Th</string>
+    <string name="draws">H</string>
+    <string name="losses">B</string>
+    <string name="points">Đ</string>
+    <string name="match_simulator">Mô phỏng trận đấu</string>
+    <string name="version_label">Phiên bản %s</string>
+    <string name="loading">Đang tải…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Tỷ số cuối cùng</string>
+    <string name="match_events">Sự kiện trận đấu</string>
+    <string name="back">Quay lại</string>
+    <string name="simulating">Đang mô phỏng…</string>
+    <string name="period_scores">Tỷ số theo hiệp</string>
+    <string name="recent_matches">Trận đấu gần đây</string>
+    <string name="no_matches_yet">Chưa có trận đấu nào</string>
+
     <string name="phone_verification_title">Xác minh</string>
     <string name="select_country">Chọn quốc gia của bạn</string>
     <string name="enter_phone">Nhập số điện thoại của bạn</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Mã</string>
     <string name="waiting_for_code">Đang chờ mã…</string>
     <string name="search_country">Tìm quốc gia</string>
+    
+    <string name="welcome_title">CHÀO MỪNG</string>
+    <string name="welcome_subtitle">đến với ứng dụng thể thao chính thức</string>
+    <string name="phone_number_hint">Số điện thoại</string>
+    <string name="phone_helper_text">Chọn mã quốc gia và nhập số điện thoại của bạn</string>
+    <string name="registration_button">Đăng ký</string>
+    <string name="sms_confirmation_free">Xác nhận SMS miễn phí.\nDữ liệu của bạn được mã hóa.</string>
+    <string name="enter_sms_code_title">Nhập mã SMS</string>
+    <string name="sms_sent_to_number">Chúng tôi đã gửi mã đến số:</string>
+    <string name="resend_timer">Gửi lại sau %d giây</string>
+    <string name="resend_code">Gửi lại mã</string>
+    <string name="confirm_button">Xác nhận</string>
+    <string name="back_button">Quay lại</string>
+    <string name="terms_agreement_text">Bằng cách nhấp vào "Đăng ký", bạn xác nhận\nrằng bạn 18 tuổi, đã đọc và chấp nhận</string>
+    <string name="terms_link">ĐIỀU KHOẢN SỬ DỤNG VÀ CHÍNH SÁCH BẢO MẬT</string>
 </resources>

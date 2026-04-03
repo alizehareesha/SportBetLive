@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">세계 축구</string>
+    <string name="euro_football">유럽 축구</string>
+    <string name="basketball">농구</string>
+    <string name="hockey">하키</string>
+    <string name="tennis">테니스</string>
+    <string name="global_champions_cup">글로벌 챔피언스 컵</string>
+    <string name="continental_premier_league">컨티넨탈 프리미어 리그</string>
+    <string name="supreme_basketball_association">슈프림 농구 협회</string>
+    <string name="ice_legends_league">아이스 레전드 리그</string>
+    <string name="grand_slam_masters_tour">그랜드 슬램 마스터즈 투어</string>
+    <string name="standings">순위</string>
+    <string name="teams">팀</string>
+    <string name="schedule">일정</string>
+    <string name="simulate_match">경기 시뮬레이션</string>
+    <string name="match_result">경기 결과</string>
+    <string name="settings">설정</string>
+    <string name="reset_all_data">모든 데이터 초기화</string>
+    <string name="reset_confirm_title">초기화 확인</string>
+    <string name="reset_confirm_message">모든 데이터를 초기화하시겠습니까? 이 작업은 되돌릴 수 없습니다.</string>
+    <string name="confirm">확인</string>
+    <string name="cancel">취소</string>
+    <string name="data_reset_success">모든 데이터가 초기화되었습니다</string>
+    <string name="delete_account">계정 삭제</string>
+    <string name="delete">삭제</string>
+
+    <string name="select_home_team">홈 팀 선택</string>
+    <string name="select_away_team">원정 팀 선택</string>
+    <string name="team_details">팀 정보</string>
+    <string name="founded">설립</string>
+    <string name="arena">경기장</string>
+    <string name="played">경기</string>
+    <string name="wins">승</string>
+    <string name="draws">무</string>
+    <string name="losses">패</string>
+    <string name="points">점</string>
+    <string name="match_simulator">경기 시뮬레이터</string>
+    <string name="version_label">버전 %s</string>
+    <string name="loading">로딩 중…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">최종 스코어</string>
+    <string name="match_events">경기 이벤트</string>
+    <string name="back">뒤로</string>
+    <string name="simulating">시뮬레이션 중…</string>
+    <string name="period_scores">피리어드 스코어</string>
+    <string name="recent_matches">최근 경기</string>
+    <string name="no_matches_yet">아직 경기가 없습니다</string>
+
     <string name="phone_verification_title">인증</string>
     <string name="select_country">국가를 선택하세요</string>
     <string name="enter_phone">전화번호를 입력하세요</string>
     <string name="enter_sms_code">SMS 코드를 입력하세요</string>
-    <string name="send_code">코드 보내기</string>
+    <string name="send_code">코드 전송</string>
     <string name="continue_btn">계속</string>
     <string name="code_sent">코드가 전송되었습니다!</string>
     <string name="invalid_code">잘못된 코드</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">코드</string>
     <string name="waiting_for_code">코드 대기 중…</string>
     <string name="search_country">국가 검색</string>
+    
+    <string name="welcome_title">환영합니다</string>
+    <string name="welcome_subtitle">공식 스포츠 앱에 오신 것을 환영합니다</string>
+    <string name="phone_number_hint">전화번호</string>
+    <string name="phone_helper_text">국가 코드를 선택하고 전화번호를 입력하세요</string>
+    <string name="registration_button">가입하기</string>
+    <string name="sms_confirmation_free">SMS 인증은 무료입니다.\n귀하의 데이터는 암호화되어 있습니다.</string>
+    <string name="enter_sms_code_title">SMS 코드 입력</string>
+    <string name="sms_sent_to_number">다음 번호로 코드를 보냈습니다:</string>
+    <string name="resend_timer">%d초 후 재전송</string>
+    <string name="resend_code">코드 재전송</string>
+    <string name="confirm_button">확인</string>
+    <string name="back_button">뒤로</string>
+    <string name="terms_agreement_text">"가입하기"를 클릭하면 18세 이상임을 확인하고,\n읽고 동의한 것으로 간주됩니다</string>
+    <string name="terms_link">이용약관 및 개인정보 처리방침</string>
 </resources>

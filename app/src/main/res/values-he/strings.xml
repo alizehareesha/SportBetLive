@@ -1,9 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">כדורגל עולמי</string>
+    <string name="euro_football">כדורגל אירופי</string>
+    <string name="basketball">כדורסל</string>
+    <string name="hockey">הוקי</string>
+    <string name="tennis">טניס</string>
+    <string name="global_champions_cup">גביע האלופות הגלובלי</string>
+    <string name="continental_premier_league">ליגת הפרמייר היבשתית</string>
+    <string name="supreme_basketball_association">התאחדות הכדורסל העליונה</string>
+    <string name="ice_legends_league">ליגת אגדות הקרח</string>
+    <string name="grand_slam_masters_tour">סיבוב אמני הגראנד סלאם</string>
+    <string name="standings">טבלה</string>
+    <string name="teams">קבוצות</string>
+    <string name="schedule">לוח זמנים</string>
+    <string name="simulate_match">סמלץ משחק</string>
+    <string name="match_result">תוצאת המשחק</string>
+    <string name="settings">הגדרות</string>
+    <string name="reset_all_data">אפס את כל הנתונים</string>
+    <string name="reset_confirm_title">אשר איפוס</string>
+    <string name="reset_confirm_message">האם אתה בטוח שברצונך לאפס את כל הנתונים? פעולה זו אינה ניתנת לביטול.</string>
+    <string name="confirm">אשר</string>
+    <string name="cancel">בטל</string>
+    <string name="data_reset_success">כל הנתונים אופסו</string>
+    <string name="delete_account">מחק חשבון</string>
+    <string name="delete">מחק</string>
+
+    <string name="select_home_team">בחר קבוצת בית</string>
+    <string name="select_away_team">בחר קבוצת חוץ</string>
+    <string name="team_details">פרטי הקבוצה</string>
+    <string name="founded">נוסד</string>
+    <string name="arena">אצטדיון</string>
+    <string name="played">מש</string>
+    <string name="wins">נצ</string>
+    <string name="draws">תיק</string>
+    <string name="losses">הפ</string>
+    <string name="points">נק</string>
+    <string name="match_simulator">סימולטור משחקים</string>
+    <string name="version_label">גרסה %s</string>
+    <string name="loading">טוען…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">תוצאה סופית</string>
+    <string name="match_events">אירועי משחק</string>
+    <string name="back">חזור</string>
+    <string name="simulating">מסמלץ…</string>
+    <string name="period_scores">תוצאות לפי תקופות</string>
+    <string name="recent_matches">משחקים אחרונים</string>
+    <string name="no_matches_yet">עדיין לא נערכו משחקים</string>
+
     <string name="phone_verification_title">אימות</string>
     <string name="select_country">בחר את המדינה שלך</string>
     <string name="enter_phone">הזן את מספר הטלפון שלך</string>
-    <string name="enter_sms_code">הזן את קוד ה-SMS</string>
+    <string name="enter_sms_code">הזן קוד SMS</string>
     <string name="send_code">שלח קוד</string>
     <string name="continue_btn">המשך</string>
     <string name="code_sent">הקוד נשלח!</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">קוד</string>
     <string name="waiting_for_code">ממתין לקוד…</string>
     <string name="search_country">חפש מדינה</string>
+    
+    <string name="welcome_title">ברוך הבא</string>
+    <string name="welcome_subtitle">לאפליקציית הספורט הרשמית</string>
+    <string name="phone_number_hint">מספר טלפון</string>
+    <string name="phone_helper_text">בחר קידומת מדינה והזן את מספר הטלפון שלך</string>
+    <string name="registration_button">הרשמה</string>
+    <string name="sms_confirmation_free">אימות SMS חינם.\nהנתונים שלך מוצפנים.</string>
+    <string name="enter_sms_code_title">הזן קוד SMS</string>
+    <string name="sms_sent_to_number">שלחנו קוד למספר:</string>
+    <string name="resend_timer">שלח שוב בעוד %d שנ</string>
+    <string name="resend_code">שלח קוד שוב</string>
+    <string name="confirm_button">אשר</string>
+    <string name="back_button">חזור</string>
+    <string name="terms_agreement_text">בלחיצה על "הרשמה", אתה מאשר\nשגילך 18, קראת ומסכים ל</string>
+    <string name="terms_link">תנאי השימוש ומדיניות הפרטיות</string>
 </resources>

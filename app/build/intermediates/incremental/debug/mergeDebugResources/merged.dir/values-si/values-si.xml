@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">නව දැනුම්දීම් %dක්</item>
+    <item quantity="other">නව දැනුම්දීම් %dක්</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"මුල් පිටුවට සංචාලනය කරන්න"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ඉහළට සංචාලනය කරන්න"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"තවත් විකල්ප"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"කළා"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"සියල්ල බලන්න"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"යෙදුමක් තෝරන්න"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ක්‍රියාවිරහිතයි"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ක්‍රියාත්මකයි"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"මකන්න"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"සොයන්න..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"විමසුම හිස් කරන්න"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"සෙවුම් විමසුම"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"සෙවීම"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"විමසුම යොමු කරන්න"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"හඬ සෙවීම"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"සමග බෙදා ගන්න"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> සමඟ බෙදා ගන්න"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"හකුළන්න"</string>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="arena">ක්‍රීඩාංගනය</string>
+    <string name="back">ආපසු</string>
+    <string name="back_button">ආපසු</string>
+    <string name="basketball">පැසිපන්දු</string>
+    <string name="bottomsheet_action_collapse">පහළම පත්‍රය හකුළන්න</string>
+    <string name="bottomsheet_action_expand">පහළම පත්‍රය දිග හරින්න</string>
+    <string name="bottomsheet_action_expand_halfway">අඩක් දිග හරින්න</string>
+    <string name="bottomsheet_drag_handle_clicked">ඇදීම් හැඬලය දෙවරක් තට්ටු කර ඇත</string>
+    <string name="bottomsheet_drag_handle_content_description">හැඬලය අදින්න</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"පිළිතුරු දෙ."</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"වීඩියෝ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"ප්‍රතික්ෂේප ක"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"විසන්ධි කරන්න"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"එන ඇමතුම"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"කරගෙන යන ඇමතුම"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"එන ඇමතුමක් පරීක්ෂා කරන්න"</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="character_counter_content_description">අනුලකුණු %2$dන් %1$dක් ඇතුළු කෙරිණි</string>
+    <string name="character_counter_overflowed_content_description">අනුලකුණු සීමාව %2$dකින් %1$d ඉක්ම විය</string>
+    <string name="clear_text_end_icon_content_description">පෙළ හිස් කරන්න</string>
+    <string name="code_hint">කේතය</string>
+    <string name="code_sent">කේතය යවන ලදී!</string>
+    <string name="confirm">තහවුරු කරන්න</string>
+    <string name="confirm_button">තහවුරු කරන්න</string>
+    <string name="continental_premier_league">මහාද්වීපික ප්‍රිමියර් ලීග්</string>
+    <string name="continue_btn">ඉදිරියට</string>
+    <string name="data_reset_success">සියලු දත්ත යළි පිහිටුවා ඇත</string>
+    <string name="delete">මකන්න</string>
+    <string name="delete_account">ගිණුම මකන්න</string>
+    <string name="draws">ඉදිරියට</string>
+    <string name="enter_phone">ඔබේ දුරකථන අංකය ඇතුළත් කරන්න</string>
+    <string name="enter_sms_code">SMS කේතය ඇතුළත් කරන්න</string>
+    <string name="enter_sms_code_title">SMS කේතය ඇතුළත් කරන්න</string>
+    <string name="error_icon_content_description">දෝෂය</string>
+    <string name="euro_football">යුරෝපීය පාපන්දු</string>
+    <string name="exposed_dropdown_menu_content_description">පතන මෙනුව පෙන්වන්න</string>
+    <string name="final_score">අවසාන ලකුණු</string>
+    <string name="founded">පිහිටුවන ලදී</string>
+    <string name="global_champions_cup">ගෝලීය ශූරයන්ගේ කුසලාන</string>
+    <string name="grand_slam_masters_tour">ග්‍රෑන්ඩ් ස්ලෑම් මාස්ටර්ස් ටුවර්</string>
+    <string name="hockey">හොකී</string>
+    <string name="ice_legends_league">අයිස් ජනප්‍රවාද ලීග්</string>
+    <string name="icon_content_description">සංවාද නිරූපකය</string>
+    <string name="invalid_code">වලංගු නොවන කේතය</string>
+    <string name="item_view_role_description">ටැබය</string>
+    <string name="loading">පූරණය වෙමින්…</string>
+    <string name="losses">පරාජය</string>
+    <string name="match_events">තරග සිදුවීම්</string>
+    <string name="match_result">තරග ප්‍රතිඵල</string>
+    <string name="match_simulator">තරග අනුකාරකය</string>
+    <string name="material_clock_toggle_content_description">පෙරවරු හෝ පස්වරු තෝරන්න</string>
+    <string name="material_hour_24h_suffix">පැය %1$sක්</string>
+    <string name="material_hour_selection">පැය තෝරන්න</string>
+    <string name="material_hour_suffix">%1$sයි</string>
+    <string name="material_minute_selection">මිනිත්තු තෝරන්න</string>
+    <string name="material_minute_suffix">මිනිත්තු %1$sයි</string>
+    <string name="material_timepicker_am">පෙව</string>
+    <string name="material_timepicker_clock_mode_description">වේලා ආදානය සඳහා ඔරලෝසු ප්‍රකාරය වෙත මාරු වෙන්න.</string>
+    <string name="material_timepicker_hour">පැය</string>
+    <string name="material_timepicker_minute">මිනිත්තු</string>
+    <string name="material_timepicker_pm">පව</string>
+    <string name="material_timepicker_select_time">වේලාව තෝරන්න</string>
+    <string name="material_timepicker_text_input_mode_description">වේලා ආදානය සඳහා ආදාන ප්‍රකාරය වෙත මාරු වෙන්න.</string>
+    <string name="mtrl_badge_numberless_content_description">නව දැනුම්දීම</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s ඉවත් කරන්න</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">නව දැනුම්දීම් %1$dකට වඩා</string>
+    <string name="mtrl_picker_a11y_next_month">ලබන මාසයට වෙනස් කරන්න</string>
+    <string name="mtrl_picker_a11y_prev_month">කලින් මාසයට වෙනස් කරන්න</string>
+    <string name="mtrl_picker_announce_current_range_selection">ආරම්භක දිනය තේරීම: %1$s – අවසාන දිනය තේරීම: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">වත්මන් තේරීම: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">කිසිවක් නැත</string>
+    <string name="mtrl_picker_cancel">අවලංගු කරන්න</string>
+    <string name="mtrl_picker_confirm">හරි</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">දිනය තෝරන්න</string>
+    <string name="mtrl_picker_date_header_unselected">තේරූ දිනය</string>
+    <string name="mtrl_picker_day_of_week_column_header">දින තීරුව: %1$s</string>
+    <string name="mtrl_picker_end_date_description">අවසාන දිනය %1$s</string>
+    <string name="mtrl_picker_invalid_format">අවලංගු ආකෘතියකි.</string>
+    <string name="mtrl_picker_invalid_format_example">උදාහරණය: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">භාවිතය: %1$s</string>
+    <string name="mtrl_picker_invalid_range">අවලංගු පරාසයකි.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">වත්මන් වර්ෂය %1$d වෙත සංචාලනය කරන්න</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$d වසරට සංචාලනය කරන්න</string>
+    <string name="mtrl_picker_out_of_range">පරාසයෙන් පිටත: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">ආරම්භක දිනය – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – නිමා වන දිනය</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">පරාසය තෝරන්න</string>
+    <string name="mtrl_picker_range_header_unselected">ආරම්භක දිනය – නිමා වන දිනය</string>
+    <string name="mtrl_picker_save">සුරකින්න</string>
+    <string name="mtrl_picker_start_date_description">ආරම්භක දිනය %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">දිනය</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">නිමා වන දිනය</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">ආරම්භක දිනය</string>
+    <string name="mtrl_picker_text_input_day_abbr">ද</string>
+    <string name="mtrl_picker_text_input_month_abbr">ම</string>
+    <string name="mtrl_picker_text_input_year_abbr">ව</string>
+    <string name="mtrl_picker_today_description">අද %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">දින දර්ශන ආදාන ප්‍රකාරයට මාරු වන්න</string>
+    <string name="mtrl_picker_toggle_to_day_selection">දින දර්ශන දසුන වෙත මාරු වීමට තට්ටු කරන්න</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">පෙළ ආදාන ප්‍රකාරයට මාරු වන්න</string>
+    <string name="mtrl_picker_toggle_to_year_selection">වසරේ දසුන වෙත මාරු වීමට තට්ටු කරන්න</string>
+    <string name="mtrl_timepicker_cancel">අවලංගු කරන්න</string>
+    <string name="mtrl_timepicker_confirm">හරි</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"ඉහළට සංචලන කරන්න"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"සංචලන ඇදීම විවෘත කරන්න"</string>
+    <string name="no_matches_yet">තවම තරග පවත්වා නැත</string>
+    <string name="password_toggle_content_description">මුරපදය පෙන්වන්න</string>
+    <string name="period_scores">කාල ලකුණු</string>
+    <string name="phone_helper_text">රට කේතය තෝරා ඔබේ දුරකථන අංකය ඇතුළත් කරන්න</string>
+    <string name="phone_hint">දුරකථන අංකය</string>
+    <string name="phone_number_hint">දුරකථන අංකය</string>
+    <string name="phone_verification_title">සත්‍යාපනය</string>
+    <string name="played">ක්‍රීඩා</string>
+    <string name="points">ලකුණු</string>
+    <string name="recent_matches">මෑත තරග</string>
+    <string name="registration_button">ලියාපදිංචිය</string>
+    <string name="resend_code">කේතය නැවත යවන්න</string>
+    <string name="resend_timer">තත්පර %d කින් නැවත යවන්න</string>
+    <string name="reset_all_data">සියලු දත්ත යළි පිහිටුවන්න</string>
+    <string name="reset_confirm_message">ඔබට සියලු දත්ත යළි පිහිටුවීමට අවශ්‍ය බව විශ්වාසද? මෙම ක්‍රියාව අහෝසි කළ නොහැක.</string>
+    <string name="reset_confirm_title">යළි පිහිටුවීම තහවුරු කරන්න</string>
+    <string name="schedule">කාලසටහන</string>
+    <string name="search_country">රට සොයන්න</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"සෙවීම"</string>
+    <string name="select_away_team">ආගන්තුක කණ්ඩායම තෝරන්න</string>
+    <string name="select_country">ඔබේ රට තෝරන්න</string>
+    <string name="select_home_team">ගෘහ කණ්ඩායම තෝරන්න</string>
+    <string name="send_code">කේතය යවන්න</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="simulate_match">තරගය අනුකරණය කරන්න</string>
+    <string name="simulating">අනුකරණය කරමින්…</string>
+    <string name="sms_confirmation_free">SMS තහවුරුව නොමිලේ.\nඔබේ දත්ත සංකේතනය කර ඇත.</string>
+    <string name="sms_sent_to_number">අපි අංකයට කේතයක් යැව්වෙමු:</string>
+    <string name="standings">ස්ථානගත</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="supreme_basketball_association">ශ්‍රේෂ්ඨ පැසිපන්දු සංගමය</string>
+    <string name="team_details">කණ්ඩායම් විස්තර</string>
+    <string name="teams">කණ්ඩායම්</string>
+    <string name="tennis">ටෙනිස්</string>
+    <string name="terms_agreement_text">"ලියාපදිංචිය" මත ක්ලික් කිරීමෙන්, ඔබ තහවුරු කරයි\nඔබට වයස අවුරුදු 18ක් බව, කියවා පිළිගත් බව</string>
+    <string name="terms_link">භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තිය</string>
+    <string name="version_label">අනුවාදය %s</string>
+    <string name="vs">VS</string>
+    <string name="waiting_for_code">කේතය බලා සිටීම…</string>
+    <string name="welcome_subtitle">නිල ක්‍රීඩා යෙදුමට</string>
+    <string name="welcome_title">සාදරයෙන් පිළිගනිමු</string>
+    <string name="wins">ජය</string>
+    <string name="world_football">ලෝක පාපන්දු</string>
+</resources>

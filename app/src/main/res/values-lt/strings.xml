@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Pasaulio futbolas</string>
+    <string name="euro_football">Europos futbolas</string>
+    <string name="basketball">Krepšinis</string>
+    <string name="hockey">Ledo ritulys</string>
+    <string name="tennis">Tenisas</string>
+    <string name="global_champions_cup">Pasaulio čempionų taurė</string>
+    <string name="continental_premier_league">Kontinentinė Premier lyga</string>
+    <string name="supreme_basketball_association">Aukščiausioji krepšinio asociacija</string>
+    <string name="ice_legends_league">Ledo legendų lyga</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters turas</string>
+    <string name="standings">Lentelė</string>
+    <string name="teams">Komandos</string>
+    <string name="schedule">Tvarkaraštis</string>
+    <string name="simulate_match">Simuliuoti rungtynes</string>
+    <string name="match_result">Rungtynių rezultatas</string>
+    <string name="settings">Nustatymai</string>
+    <string name="reset_all_data">Atstatyti visus duomenis</string>
+    <string name="reset_confirm_title">Patvirtinti atstatymą</string>
+    <string name="reset_confirm_message">Ar tikrai norite atstatyti visus duomenis? Šio veiksmo negalima atšaukti.</string>
+    <string name="confirm">Patvirtinti</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="data_reset_success">Visi duomenys atstatyti</string>
+    <string name="delete_account">Ištrinti paskyrą</string>
+    <string name="delete">Ištrinti</string>
+
+    <string name="select_home_team">Pasirinkti namų komandą</string>
+    <string name="select_away_team">Pasirinkti svečių komandą</string>
+    <string name="team_details">Komandos informacija</string>
+    <string name="founded">Įkurta</string>
+    <string name="arena">Arena</string>
+    <string name="played">R</string>
+    <string name="wins">P</string>
+    <string name="draws">L</string>
+    <string name="losses">Pr</string>
+    <string name="points">T</string>
+    <string name="match_simulator">Rungtynių simuliatorius</string>
+    <string name="version_label">Versija %s</string>
+    <string name="loading">Kraunama…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Galutinis rezultatas</string>
+    <string name="match_events">Rungtynių įvykiai</string>
+    <string name="back">Atgal</string>
+    <string name="simulating">Simuliuojama…</string>
+    <string name="period_scores">Periodų rezultatai</string>
+    <string name="recent_matches">Naujausios rungtynės</string>
+    <string name="no_matches_yet">Dar nėra sužaistų rungtynių</string>
+
     <string name="phone_verification_title">Patvirtinimas</string>
     <string name="select_country">Pasirinkite savo šalį</string>
-    <string name="enter_phone">Įveskite savo telefono numerį</string>
+    <string name="enter_phone">Įveskite telefono numerį</string>
     <string name="enter_sms_code">Įveskite SMS kodą</string>
     <string name="send_code">Siųsti kodą</string>
     <string name="continue_btn">Tęsti</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Kodas</string>
     <string name="waiting_for_code">Laukiama kodo…</string>
     <string name="search_country">Ieškoti šalies</string>
+    
+    <string name="welcome_title">SVEIKI ATVYKĘ</string>
+    <string name="welcome_subtitle">į oficialią sporto programėlę</string>
+    <string name="phone_number_hint">Telefono numeris</string>
+    <string name="phone_helper_text">Pasirinkite šalies kodą ir įveskite telefono numerį</string>
+    <string name="registration_button">Registracija</string>
+    <string name="sms_confirmation_free">SMS patvirtinimas yra nemokamas.\nJūsų duomenys yra užšifruoti.</string>
+    <string name="enter_sms_code_title">Įveskite SMS kodą</string>
+    <string name="sms_sent_to_number">Išsiuntėme kodą numeriu:</string>
+    <string name="resend_timer">Siųsti pakartotinai po %d sek</string>
+    <string name="resend_code">Siųsti kodą pakartotinai</string>
+    <string name="confirm_button">Patvirtinti</string>
+    <string name="back_button">Atgal</string>
+    <string name="terms_agreement_text">Spustelėdami "Registracija" patvirtinate,\nkad esate 18 metų, perskaitėte ir sutinkate su</string>
+    <string name="terms_link">NAUDOJIMO SĄLYGOMIS IR PRIVATUMO POLITIKA</string>
 </resources>

@@ -1,0 +1,7 @@
+com.sportbetlive.sgdsn.test.app-core-1.7.0-0 /Users/vadim/.gradle/caches/8.13/transforms/1c64e39c300cfbc2c4f174bbc2559143/transformed/core-1.7.0/res
+com.sportbetlive.sgdsn.test.app-tracing-1.2.0-1 /Users/vadim/.gradle/caches/8.13/transforms/7904e38ef297759d0d8bf752a7fa4468/transformed/tracing-1.2.0/res
+com.sportbetlive.sgdsn.test.app-androidTest-2 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/generated/res/resValues/androidTest/debug
+com.sportbetlive.sgdsn.test.app-updated_navigation_xml-3 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/generated/updated_navigation_xml/debugAndroidTest
+com.sportbetlive.sgdsn.test.app-mergeDebugAndroidTestResources-4 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.sportbetlive.sgdsn.test.app-mergeDebugAndroidTestResources-5 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.sportbetlive.sgdsn.test.app-debugAndroidTest-6 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

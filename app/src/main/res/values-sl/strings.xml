@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Svetovni nogomet</string>
+    <string name="euro_football">Evropski nogomet</string>
+    <string name="basketball">Košarka</string>
+    <string name="hockey">Hokej</string>
+    <string name="tennis">Tenis</string>
+    <string name="global_champions_cup">Globalni pokal prvakov</string>
+    <string name="continental_premier_league">Kontinentalna Premier liga</string>
+    <string name="supreme_basketball_association">Vrhovna košarkarska zveza</string>
+    <string name="ice_legends_league">Liga ledenih legend</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters turneja</string>
+    <string name="standings">Lestvica</string>
+    <string name="teams">Ekipe</string>
+    <string name="schedule">Urnik</string>
+    <string name="simulate_match">Simuliraj tekmo</string>
+    <string name="match_result">Rezultat tekme</string>
+    <string name="settings">Nastavitve</string>
+    <string name="reset_all_data">Ponastavi vse podatke</string>
+    <string name="reset_confirm_title">Potrdi ponastavitev</string>
+    <string name="reset_confirm_message">Ali ste prepričani, da želite ponastaviti vse podatke? Tega dejanja ni mogoče razveljaviti.</string>
+    <string name="confirm">Potrdi</string>
+    <string name="cancel">Prekliči</string>
+    <string name="data_reset_success">Vsi podatki so bili ponastavljeni</string>
+    <string name="delete_account">Izbriši račun</string>
+    <string name="delete">Izbriši</string>
+
+    <string name="select_home_team">Izberi domačo ekipo</string>
+    <string name="select_away_team">Izberi gostujočo ekipo</string>
+    <string name="team_details">Podrobnosti o ekipi</string>
+    <string name="founded">Ustanovljeno</string>
+    <string name="arena">Arena</string>
+    <string name="played">T</string>
+    <string name="wins">Z</string>
+    <string name="draws">N</string>
+    <string name="losses">P</string>
+    <string name="points">T</string>
+    <string name="match_simulator">Simulator tekem</string>
+    <string name="version_label">Različica %s</string>
+    <string name="loading">Nalaganje…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Končni rezultat</string>
+    <string name="match_events">Dogodki tekme</string>
+    <string name="back">Nazaj</string>
+    <string name="simulating">Simuliranje…</string>
+    <string name="period_scores">Rezultati po obdobjih</string>
+    <string name="recent_matches">Nedavne tekme</string>
+    <string name="no_matches_yet">Še ni odigranih tekem</string>
+
     <string name="phone_verification_title">Preverjanje</string>
     <string name="select_country">Izberite svojo državo</string>
-    <string name="enter_phone">Vnesite svojo telefonsko številko</string>
+    <string name="enter_phone">Vnesite telefonsko številko</string>
     <string name="enter_sms_code">Vnesite SMS kodo</string>
     <string name="send_code">Pošlji kodo</string>
     <string name="continue_btn">Nadaljuj</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Koda</string>
     <string name="waiting_for_code">Čakanje na kodo…</string>
     <string name="search_country">Išči državo</string>
+    
+    <string name="welcome_title">DOBRODOŠLI</string>
+    <string name="welcome_subtitle">v uradni športni aplikaciji</string>
+    <string name="phone_number_hint">Telefonska številka</string>
+    <string name="phone_helper_text">Izberite kodo države in vnesite telefonsko številko</string>
+    <string name="registration_button">Registracija</string>
+    <string name="sms_confirmation_free">SMS potrditev je brezplačna.\nVaši podatki so šifrirani.</string>
+    <string name="enter_sms_code_title">Vnesite SMS kodo</string>
+    <string name="sms_sent_to_number">Poslali smo kodo na številko:</string>
+    <string name="resend_timer">Ponovno pošlji čez %d sek</string>
+    <string name="resend_code">Ponovno pošlji kodo</string>
+    <string name="confirm_button">Potrdi</string>
+    <string name="back_button">Nazaj</string>
+    <string name="terms_agreement_text">S klikom na "Registracija" potrjujete,\nda ste stari 18 let, prebrali ste in sprejemate</string>
+    <string name="terms_link">POGOJE UPORABE IN PRAVILNIK O ZASEBNOSTI</string>
 </resources>

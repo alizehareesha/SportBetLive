@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Футболи ҷаҳонӣ</string>
+    <string name="euro_football">Футболи аврупоӣ</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="global_champions_cup">Ҷоми ҷаҳонии чемпионҳо</string>
+    <string name="continental_premier_league">Лигаи Премьери қитъаӣ</string>
+    <string name="supreme_basketball_association">Ассотсиатсияи олии баскетбол</string>
+    <string name="ice_legends_league">Лигаи афсонаҳои ях</string>
+    <string name="grand_slam_masters_tour">Тури Мастерсҳои Гранд Слем</string>
+    <string name="standings">Ҷадвали турнирӣ</string>
+    <string name="teams">Дастаҳо</string>
+    <string name="schedule">Ҷадвал</string>
+    <string name="simulate_match">Симулятсияи бозӣ</string>
+    <string name="match_result">Натиҷаи бозӣ</string>
+    <string name="settings">Танзимот</string>
+    <string name="reset_all_data">Барқарор кардани ҳамаи маълумот</string>
+    <string name="reset_confirm_title">Тасдиқи барқароркунӣ</string>
+    <string name="reset_confirm_message">Шумо мутмаин ҳастед, ки мехоҳед ҳамаи маълумотро барқарор кунед? Ин амал бозгашт надорад.</string>
+    <string name="confirm">Тасдиқ кардан</string>
+    <string name="cancel">Бекор кардан</string>
+    <string name="data_reset_success">Ҳамаи маълумот барқарор карда шуд</string>
+    <string name="delete_account">Нест кардани аккаунт</string>
+    <string name="delete">Нест кардан</string>
+
+    <string name="select_home_team">Интихоби дастаи хонагӣ</string>
+    <string name="select_away_team">Интихоби дастаи меҳмон</string>
+    <string name="team_details">Тафсилоти даста</string>
+    <string name="founded">Таъсис ёфтааст</string>
+    <string name="arena">Арена</string>
+    <string name="played">Б</string>
+    <string name="wins">Ғ</string>
+    <string name="draws">Б</string>
+    <string name="losses">М</string>
+    <string name="points">О</string>
+    <string name="match_simulator">Симулятори бозиҳо</string>
+    <string name="version_label">Версия %s</string>
+    <string name="loading">Боркунӣ…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Ҳисоби ниҳоӣ</string>
+    <string name="match_events">Рӯйдодҳои бозӣ</string>
+    <string name="back">Бозгашт</string>
+    <string name="simulating">Симулятсия…</string>
+    <string name="period_scores">Ҳисоби давраҳо</string>
+    <string name="recent_matches">Бозиҳои охирин</string>
+    <string name="no_matches_yet">Ҳанӯз бозӣ гузаронида нашудааст</string>
+
     <string name="phone_verification_title">Тасдиқ</string>
     <string name="select_country">Кишвари худро интихоб кунед</string>
-    <string name="enter_phone">Рақами телефони худро ворид кунед</string>
+    <string name="enter_phone">Рақами телефонро ворид кунед</string>
     <string name="enter_sms_code">Рамзи SMS-ро ворид кунед</string>
     <string name="send_code">Фиристодани рамз</string>
     <string name="continue_btn">Идома додан</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Рамз</string>
     <string name="waiting_for_code">Интизории рамз…</string>
     <string name="search_country">Ҷустуҷӯи кишвар</string>
+    
+    <string name="welcome_title">ХУШ ОМАДЕД</string>
+    <string name="welcome_subtitle">ба барномаи расмии варзишӣ</string>
+    <string name="phone_number_hint">Рақами телефон</string>
+    <string name="phone_helper_text">Рамзи кишварро интихоб кунед ва рақами телефонро ворид кунед</string>
+    <string name="registration_button">Сабтном</string>
+    <string name="sms_confirmation_free">Тасдиқи SMS ройгон аст.\nМаълумоти шумо рамзгузорӣ шудааст.</string>
+    <string name="enter_sms_code_title">Рамзи SMS-ро ворид кунед</string>
+    <string name="sms_sent_to_number">Мо ба рақам рамз фиристодем:</string>
+    <string name="resend_timer">Дубора фиристодан пас аз %d сония</string>
+    <string name="resend_code">Дубора фиристодани рамз</string>
+    <string name="confirm_button">Тасдиқ кардан</string>
+    <string name="back_button">Бозгашт</string>
+    <string name="terms_agreement_text">Бо пахш кардани "Сабтном" шумо тасдиқ мекунед,\nки 18 сола ҳастед, хонда ва қабул кардаед</string>
+    <string name="terms_link">ШАРТҲОИ ИСТИФОДА ВА СИЁСАТИ МАХФИЯТ</string>
 </resources>

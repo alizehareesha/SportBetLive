@@ -1,0 +1,54 @@
+com.sportbetlive.sgdsn.app-appcompat-1.6.1-0 /Users/vadim/.gradle/caches/8.13/transforms/021fc1c0f00733182c6e30341a230ba1/transformed/appcompat-1.6.1/res
+com.sportbetlive.sgdsn.app-lifecycle-viewmodel-2.6.2-1 /Users/vadim/.gradle/caches/8.13/transforms/064801219305a539a395872cee43555d/transformed/lifecycle-viewmodel-2.6.2/res
+com.sportbetlive.sgdsn.app-navigation-common-2.7.7-2 /Users/vadim/.gradle/caches/8.13/transforms/0dcf5848c7d920d7b59b05fd318e9469/transformed/navigation-common-2.7.7/res
+com.sportbetlive.sgdsn.app-constraintlayout-2.1.4-3 /Users/vadim/.gradle/caches/8.13/transforms/10fa8bcf40ca1688ade8595a421aaab0/transformed/constraintlayout-2.1.4/res
+com.sportbetlive.sgdsn.app-navigation-ui-ktx-2.7.7-4 /Users/vadim/.gradle/caches/8.13/transforms/1a115f1523337e1f7f906378ff53525d/transformed/navigation-ui-ktx-2.7.7/res
+com.sportbetlive.sgdsn.app-appcompat-resources-1.6.1-5 /Users/vadim/.gradle/caches/8.13/transforms/1bf5dc687c55bd6b7cb3bdbe6c49d8e2/transformed/appcompat-resources-1.6.1/res
+com.sportbetlive.sgdsn.app-window-1.0.0-6 /Users/vadim/.gradle/caches/8.13/transforms/1dba4956ac6a5771d8e38023601a1feb/transformed/window-1.0.0/res
+com.sportbetlive.sgdsn.app-core-1.17.0-7 /Users/vadim/.gradle/caches/8.13/transforms/203b951fd8e3830eed5aa61b24efb9e9/transformed/core-1.17.0/res
+com.sportbetlive.sgdsn.app-navigation-fragment-ktx-2.7.7-8 /Users/vadim/.gradle/caches/8.13/transforms/23d05e4786c8b55f5d1b4d8434fdaed7/transformed/navigation-fragment-ktx-2.7.7/res
+com.sportbetlive.sgdsn.app-navigation-fragment-2.7.7-9 /Users/vadim/.gradle/caches/8.13/transforms/23e8315f4380fd806c4498cbac043697/transformed/navigation-fragment-2.7.7/res
+com.sportbetlive.sgdsn.app-annotation-experimental-1.4.1-10 /Users/vadim/.gradle/caches/8.13/transforms/24f5fd08039d8f9524032949ab50d055/transformed/annotation-experimental-1.4.1/res
+com.sportbetlive.sgdsn.app-drawerlayout-1.1.1-11 /Users/vadim/.gradle/caches/8.13/transforms/260a127b478914ceb508cfb851c2f0dc/transformed/drawerlayout-1.1.1/res
+com.sportbetlive.sgdsn.app-fragment-1.6.2-12 /Users/vadim/.gradle/caches/8.13/transforms/2b42f5c0d941d56deaf54f827a1eb787/transformed/fragment-1.6.2/res
+com.sportbetlive.sgdsn.app-core-ktx-1.17.0-13 /Users/vadim/.gradle/caches/8.13/transforms/319824285b7c06c71e2942552283b8df/transformed/core-ktx-1.17.0/res
+com.sportbetlive.sgdsn.app-lifecycle-livedata-2.6.2-14 /Users/vadim/.gradle/caches/8.13/transforms/45fe2d411c0d2259f78eca9381b018e5/transformed/lifecycle-livedata-2.6.2/res
+com.sportbetlive.sgdsn.app-lifecycle-viewmodel-ktx-2.6.2-15 /Users/vadim/.gradle/caches/8.13/transforms/4a253e29f221cf6d960c05470b0b0248/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.sportbetlive.sgdsn.app-emoji2-1.2.0-16 /Users/vadim/.gradle/caches/8.13/transforms/4cb31e5ecc8bfd3058bb702ae9cb876c/transformed/emoji2-1.2.0/res
+com.sportbetlive.sgdsn.app-profileinstaller-1.3.0-17 /Users/vadim/.gradle/caches/8.13/transforms/4fab3144884308c5c6bc41251dba21ff/transformed/profileinstaller-1.3.0/res
+com.sportbetlive.sgdsn.app-core-viewtree-1.0.0-18 /Users/vadim/.gradle/caches/8.13/transforms/52a19eda1d86497e890e1577cc2243ce/transformed/core-viewtree-1.0.0/res
+com.sportbetlive.sgdsn.app-navigation-common-ktx-2.7.7-19 /Users/vadim/.gradle/caches/8.13/transforms/570708ce6a311fd2f8c374af9fb7e96f/transformed/navigation-common-ktx-2.7.7/res
+com.sportbetlive.sgdsn.app-lifecycle-runtime-ktx-2.6.2-20 /Users/vadim/.gradle/caches/8.13/transforms/5b0f2a8124e66289791007dbcf1f4349/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.sportbetlive.sgdsn.app-lifecycle-viewmodel-savedstate-2.6.2-21 /Users/vadim/.gradle/caches/8.13/transforms/5b4fd425a506c91e6f08b1566015cf6f/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.sportbetlive.sgdsn.app-navigation-ui-2.7.7-22 /Users/vadim/.gradle/caches/8.13/transforms/65016ceadb5a4ed8fd1fe096e17bcf5b/transformed/navigation-ui-2.7.7/res
+com.sportbetlive.sgdsn.app-material-1.10.0-23 /Users/vadim/.gradle/caches/8.13/transforms/6e460ed9ab68410588d0895f0dee672c/transformed/material-1.10.0/res
+com.sportbetlive.sgdsn.app-recyclerview-1.1.0-24 /Users/vadim/.gradle/caches/8.13/transforms/70e0299569d68d5960fe9f83b65badcb/transformed/recyclerview-1.1.0/res
+com.sportbetlive.sgdsn.app-savedstate-ktx-1.2.1-25 /Users/vadim/.gradle/caches/8.13/transforms/773eb45449a738e86c77cd13f466bbab/transformed/savedstate-ktx-1.2.1/res
+com.sportbetlive.sgdsn.app-tracing-1.2.0-26 /Users/vadim/.gradle/caches/8.13/transforms/7904e38ef297759d0d8bf752a7fa4468/transformed/tracing-1.2.0/res
+com.sportbetlive.sgdsn.app-coordinatorlayout-1.1.0-27 /Users/vadim/.gradle/caches/8.13/transforms/7f9605648b85599527c58a99bd85beb4/transformed/coordinatorlayout-1.1.0/res
+com.sportbetlive.sgdsn.app-lifecycle-livedata-core-ktx-2.6.2-28 /Users/vadim/.gradle/caches/8.13/transforms/8c4fb120b987c8de847b353c0649d97e/transformed/lifecycle-livedata-core-ktx-2.6.2/res
+com.sportbetlive.sgdsn.app-webkit-1.10.0-29 /Users/vadim/.gradle/caches/8.13/transforms/8da109dff7b08bad36545b6de0a2c728/transformed/webkit-1.10.0/res
+com.sportbetlive.sgdsn.app-startup-runtime-1.1.1-30 /Users/vadim/.gradle/caches/8.13/transforms/91e7a81626b692c2f1cd1607e5e2e74a/transformed/startup-runtime-1.1.1/res
+com.sportbetlive.sgdsn.app-navigation-runtime-ktx-2.7.7-31 /Users/vadim/.gradle/caches/8.13/transforms/937e1b34ef1e0c63ea505946a8468fa2/transformed/navigation-runtime-ktx-2.7.7/res
+com.sportbetlive.sgdsn.app-savedstate-1.2.1-32 /Users/vadim/.gradle/caches/8.13/transforms/949cc3ca524e5dc8ee921ca999292274/transformed/savedstate-1.2.1/res
+com.sportbetlive.sgdsn.app-lifecycle-livedata-core-2.6.2-33 /Users/vadim/.gradle/caches/8.13/transforms/99469d892b4e6e11d08c03ac20791497/transformed/lifecycle-livedata-core-2.6.2/res
+com.sportbetlive.sgdsn.app-lifecycle-runtime-2.6.2-34 /Users/vadim/.gradle/caches/8.13/transforms/9be6446ff44ec4c48394806821e2abf0/transformed/lifecycle-runtime-2.6.2/res
+com.sportbetlive.sgdsn.app-lifecycle-process-2.6.2-35 /Users/vadim/.gradle/caches/8.13/transforms/a0ea3e83375468f1cbdf44b0eee0cabd/transformed/lifecycle-process-2.6.2/res
+com.sportbetlive.sgdsn.app-emoji2-views-helper-1.2.0-36 /Users/vadim/.gradle/caches/8.13/transforms/a3819d75e5ba4c3be08a706d3aa6bbec/transformed/emoji2-views-helper-1.2.0/res
+com.sportbetlive.sgdsn.app-activity-1.8.0-37 /Users/vadim/.gradle/caches/8.13/transforms/aa8f41aec9fb8cd6b9dad019ab54f1a5/transformed/activity-1.8.0/res
+com.sportbetlive.sgdsn.app-viewpager2-1.0.0-38 /Users/vadim/.gradle/caches/8.13/transforms/ab748a39e28ec044a3248a305f257f03/transformed/viewpager2-1.0.0/res
+com.sportbetlive.sgdsn.app-navigation-runtime-2.7.7-39 /Users/vadim/.gradle/caches/8.13/transforms/b29201c76f4fd11653b97765cfe33e44/transformed/navigation-runtime-2.7.7/res
+com.sportbetlive.sgdsn.app-cardview-1.0.0-40 /Users/vadim/.gradle/caches/8.13/transforms/bee9057ae21d340670a834f861d6923d/transformed/cardview-1.0.0/res
+com.sportbetlive.sgdsn.app-slidingpanelayout-1.2.0-41 /Users/vadim/.gradle/caches/8.13/transforms/d50363905865979dc318e29fcf5c02c1/transformed/slidingpanelayout-1.2.0/res
+com.sportbetlive.sgdsn.app-transition-1.4.1-42 /Users/vadim/.gradle/caches/8.13/transforms/e1905ff5a447a345046ac0fa8b3781fa/transformed/transition-1.4.1/res
+com.sportbetlive.sgdsn.app-fragment-ktx-1.6.2-43 /Users/vadim/.gradle/caches/8.13/transforms/eb02ca2781238053c2175093b04620a9/transformed/fragment-ktx-1.6.2/res
+com.sportbetlive.sgdsn.app-core-runtime-2.2.0-44 /Users/vadim/.gradle/caches/8.13/transforms/ed71fabcad98bdefa5019ae347b04484/transformed/core-runtime-2.2.0/res
+com.sportbetlive.sgdsn.app-activity-ktx-1.8.0-45 /Users/vadim/.gradle/caches/8.13/transforms/f3d5536736b4cd5b1b6567c06fedb26a/transformed/activity-ktx-1.8.0/res
+com.sportbetlive.sgdsn.app-pngs-46 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/generated/res/pngs/debug
+com.sportbetlive.sgdsn.app-resValues-47 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/generated/res/resValues/debug
+com.sportbetlive.sgdsn.app-updated_navigation_xml-48 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/generated/updated_navigation_xml/debug
+com.sportbetlive.sgdsn.app-packageDebugResources-49 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.sportbetlive.sgdsn.app-packageDebugResources-50 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.sportbetlive.sgdsn.app-debug-51 /Users/vadim/Desktop/SportBet v7/SportBet/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.sportbetlive.sgdsn.app-debug-52 /Users/vadim/Desktop/SportBet v7/SportBet/app/src/debug/res
+com.sportbetlive.sgdsn.app-main-53 /Users/vadim/Desktop/SportBet v7/SportBet/app/src/main/res

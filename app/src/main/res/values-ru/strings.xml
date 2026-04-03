@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Мировой футбол</string>
+    <string name="euro_football">Европейский футбол</string>
+    <string name="basketball">Баскетбол</string>
+    <string name="hockey">Хоккей</string>
+    <string name="tennis">Теннис</string>
+    <string name="global_champions_cup">Глобальный Кубок Чемпионов</string>
+    <string name="continental_premier_league">Континентальная Премьер-лига</string>
+    <string name="supreme_basketball_association">Высшая Баскетбольная Ассоциация</string>
+    <string name="ice_legends_league">Лига Ледовых Легенд</string>
+    <string name="grand_slam_masters_tour">Тур Мастеров Большого Шлема</string>
+    <string name="standings">Турнирная таблица</string>
+    <string name="teams">Команды</string>
+    <string name="schedule">Расписание</string>
+    <string name="simulate_match">Симулировать матч</string>
+    <string name="match_result">Результат матча</string>
+    <string name="settings">Настройки</string>
+    <string name="reset_all_data">Сбросить все данные</string>
+    <string name="reset_confirm_title">Подтвердите сброс</string>
+    <string name="reset_confirm_message">Вы уверены, что хотите сбросить все данные? Это действие нельзя отменить.</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="cancel">Отмена</string>
+    <string name="data_reset_success">Все данные сброшены</string>
+    <string name="delete_account">Удалить аккаунт</string>
+    <string name="delete">Удалить</string>
+
+    <string name="select_home_team">Выбрать домашнюю команду</string>
+    <string name="select_away_team">Выбрать гостевую команду</string>
+    <string name="team_details">Информация о команде</string>
+    <string name="founded">Основана</string>
+    <string name="arena">Арена</string>
+    <string name="played">И</string>
+    <string name="wins">В</string>
+    <string name="draws">Н</string>
+    <string name="losses">П</string>
+    <string name="points">О</string>
+    <string name="match_simulator">Симулятор матчей</string>
+    <string name="version_label">Версия %s</string>
+    <string name="loading">Загрузка…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Финальный счёт</string>
+    <string name="match_events">События матча</string>
+    <string name="back">Назад</string>
+    <string name="simulating">Симуляция…</string>
+    <string name="period_scores">Счёт по периодам</string>
+    <string name="recent_matches">Последние матчи</string>
+    <string name="no_matches_yet">Ещё нет сыгранных матчей</string>
+
     <string name="phone_verification_title">Верификация</string>
     <string name="select_country">Выберите страну</string>
     <string name="enter_phone">Введите номер телефона</string>
@@ -13,7 +61,6 @@
     <string name="waiting_for_code">Ожидание кода…</string>
     <string name="search_country">Поиск страны</string>
     
-    <!-- New Phone Verification Strings -->
     <string name="welcome_title">ДОБРО ПОЖАЛОВАТЬ</string>
     <string name="welcome_subtitle">в официальное спортивное приложение</string>
     <string name="phone_number_hint">Номер телефона</string>

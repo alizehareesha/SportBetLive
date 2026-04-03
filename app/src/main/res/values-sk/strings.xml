@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Svetový futbal</string>
+    <string name="euro_football">Európsky futbal</string>
+    <string name="basketball">Basketbal</string>
+    <string name="hockey">Hokej</string>
+    <string name="tennis">Tenis</string>
+    <string name="global_champions_cup">Globálny pohár šampiónov</string>
+    <string name="continental_premier_league">Kontinentálna Premier League</string>
+    <string name="supreme_basketball_association">Najvyššia basketbalová asociácia</string>
+    <string name="ice_legends_league">Liga ľadových legiend</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters Tour</string>
+    <string name="standings">Tabuľka</string>
+    <string name="teams">Tímy</string>
+    <string name="schedule">Rozvrh</string>
+    <string name="simulate_match">Simulovať zápas</string>
+    <string name="match_result">Výsledok zápasu</string>
+    <string name="settings">Nastavenia</string>
+    <string name="reset_all_data">Resetovať všetky údaje</string>
+    <string name="reset_confirm_title">Potvrdiť reset</string>
+    <string name="reset_confirm_message">Naozaj chcete resetovať všetky údaje? Túto akciu nie je možné vrátiť späť.</string>
+    <string name="confirm">Potvrdiť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="data_reset_success">Všetky údaje boli resetované</string>
+    <string name="delete_account">Vymazať účet</string>
+    <string name="delete">Vymazať</string>
+
+    <string name="select_home_team">Vybrať domáci tím</string>
+    <string name="select_away_team">Vybrať hosťujúci tím</string>
+    <string name="team_details">Podrobnosti o tíme</string>
+    <string name="founded">Založený</string>
+    <string name="arena">Aréna</string>
+    <string name="played">Z</string>
+    <string name="wins">V</string>
+    <string name="draws">R</string>
+    <string name="losses">P</string>
+    <string name="points">B</string>
+    <string name="match_simulator">Simulátor zápasov</string>
+    <string name="version_label">Verzia %s</string>
+    <string name="loading">Načítava sa…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Konečný výsledok</string>
+    <string name="match_events">Udalosti zápasu</string>
+    <string name="back">Späť</string>
+    <string name="simulating">Simuluje sa…</string>
+    <string name="period_scores">Skóre období</string>
+    <string name="recent_matches">Nedávne zápasy</string>
+    <string name="no_matches_yet">Zatiaľ neboli odohrané žiadne zápasy</string>
+
     <string name="phone_verification_title">Overenie</string>
     <string name="select_country">Vyberte svoju krajinu</string>
-    <string name="enter_phone">Zadajte svoje telefónne číslo</string>
+    <string name="enter_phone">Zadajte telefónne číslo</string>
     <string name="enter_sms_code">Zadajte SMS kód</string>
     <string name="send_code">Odoslať kód</string>
     <string name="continue_btn">Pokračovať</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Kód</string>
     <string name="waiting_for_code">Čakanie na kód…</string>
     <string name="search_country">Hľadať krajinu</string>
+    
+    <string name="welcome_title">VITAJTE</string>
+    <string name="welcome_subtitle">v oficiálnej športovej aplikácii</string>
+    <string name="phone_number_hint">Telefónne číslo</string>
+    <string name="phone_helper_text">Vyberte kód krajiny a zadajte telefónne číslo</string>
+    <string name="registration_button">Registrácia</string>
+    <string name="sms_confirmation_free">SMS potvrdenie je zadarmo.\nVaše údaje sú šifrované.</string>
+    <string name="enter_sms_code_title">Zadajte SMS kód</string>
+    <string name="sms_sent_to_number">Odoslali sme kód na číslo:</string>
+    <string name="resend_timer">Znovu odoslať za %d s</string>
+    <string name="resend_code">Odoslať kód znovu</string>
+    <string name="confirm_button">Potvrdiť</string>
+    <string name="back_button">Späť</string>
+    <string name="terms_agreement_text">Kliknutím na "Registrácia" potvrdzujete,\nže máte 18 rokov, prečítali ste a súhlasíte s</string>
+    <string name="terms_link">PODMIENKAMI POUŽÍVANIA A ZÁSADAMI OCHRANY OSOBNÝCH ÚDAJOV</string>
 </resources>

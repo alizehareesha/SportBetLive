@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0A1628">
+
+    <!-- Phone Entry Screen -->
+    <ScrollView
+        android:id="@+id/phoneEntryScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <!-- App Icon / Sports Image -->
+            <ImageView
+                android:id="@+id/appIconImage"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_marginTop="60dp"
+                android:src="@mipmap/ic_launcher_round"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/app_name" />
+
+            <!-- Welcome Card -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginHorizontal="24dp"
+                app:cardBackgroundColor="#0D1B2A"
+                app:cardCornerRadius="24dp"
+                app:cardElevation="0dp"
+                app:strokeWidth="0dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="24dp"
+                    android:gravity="center_horizontal">
+
+                    <!-- WELCOME Title -->
+                    <TextView
+                        android:id="@+id/welcomeTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/welcome_title"
+                        android:textColor="@color/white"
+                        android:textSize="28sp"
+                        android:textStyle="bold" />
+
+                    <!-- Subtitle -->
+                    <TextView
+                        android:id="@+id/welcomeSubtitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="4dp"
+                        android:text="@string/welcome_subtitle"
+                        android:textColor="#8899AA"
+                        android:textSize="14sp" />
+
+                    <!-- Phone Input Container -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="24dp"
+                        android:orientation="horizontal"
+                        android:gravity="center_vertical">
+
+                        <!-- Country Code Selector -->
+                        <LinearLayout
+                            android:id="@+id/countryCodeSelector"
+                            android:layout_width="wrap_content"
+                            android:layout_height="52dp"
+                            android:orientation="horizontal"
+                            android:gravity="center_vertical"
+                            android:paddingHorizontal="12dp"
+                            android:background="@drawable/bg_country_selector"
+                            android:clickable="true"
+                            android:focusable="true">
+
+                            <ImageView
+                                android:id="@+id/dropdownArrow"
+                                android:layout_width="16dp"
+                                android:layout_height="16dp"
+                                android:src="@android:drawable/arrow_down_float"
+                                android:contentDescription="Dropdown"
+                                app:tint="@color/white" />
+
+                            <TextView
+                                android:id="@+id/countryFlag"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="4dp"
+                                android:textSize="20sp"
+                                tools:text="🇺🇸" />
+
+                            <TextView
+                                android:id="@+id/countryCodeText"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="6dp"
+                                android:textColor="@color/white"
+                                android:textSize="16sp"
+                                tools:text="+1" />
+
+                        </LinearLayout>
+
+                        <!-- Phone Number Input -->
+                        <EditText
+                            android:id="@+id/phoneNumberInput"
+                            android:layout_width="0dp"
+                            android:layout_height="52dp"
+                            android:layout_weight="1"
+                            android:layout_marginStart="8dp"
+                            android:background="@drawable/bg_phone_input_field"
+                            android:hint="@string/phone_number_hint"
+                            android:inputType="number"
+                            android:digits="0123456789"
+                            android:maxLines="1"
+                            android:maxLength="15"
+                            android:paddingHorizontal="16dp"
+                            android:textColor="@color/white"
+                            android:textColorHint="#667788"
+                            android:textSize="16sp"
+                            android:importantForAutofill="no" />
+
+                    </LinearLayout>
+
+                    <!-- Helper Text -->
+                    <TextView
+                        android:id="@+id/phoneHelperText"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:text="@string/phone_helper_text"
+                        android:textColor="#667788"
+                        android:textSize="12sp" />
+
+                    <!-- Registration Button -->
+                    <Button
+                        android:id="@+id/registrationButton"
+                        android:layout_width="match_parent"
+                        android:layout_height="52dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/bg_button_registration"
+                        android:text="@string/registration_button"
+                        android:textAllCaps="false"
+                        android:textColor="@color/white"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- Footer Text -->
+            <TextView
+                android:id="@+id/footerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_marginBottom="24dp"
+                android:gravity="center"
+                android:paddingHorizontal="24dp"
+                android:text="@string/sms_confirmation_free"
+                android:textColor="#667788"
+                android:textSize="12sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- SMS Code Entry Screen -->
+    <ScrollView
+        android:id="@+id/smsCodeScreen"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:visibility="gone"
+        tools:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:paddingHorizontal="32dp"
+            android:paddingTop="100dp">
+
+            <!-- Title -->
+            <TextView
+                android:id="@+id/smsCodeTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/enter_sms_code_title"
+                android:textColor="@color/white"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <!-- Subtitle with phone number -->
+            <TextView
+                android:id="@+id/smsCodeSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:gravity="center"
+                android:text="@string/sms_sent_to_number"
+                android:textColor="#8899AA"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/phoneNumberDisplay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                tools:text="+71111111111" />
+
+            <!-- Code Input Fields -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/codeDigit1"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:background="@drawable/bg_code_digit_field"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:cursorVisible="true"
+                    android:importantForAutofill="no" />
+
+                <EditText
+                    android:id="@+id/codeDigit2"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:background="@drawable/bg_code_digit_field"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:cursorVisible="true"
+                    android:importantForAutofill="no" />
+
+                <EditText
+                    android:id="@+id/codeDigit3"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:background="@drawable/bg_code_digit_field"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:cursorVisible="true"
+                    android:importantForAutofill="no" />
+
+                <EditText
+                    android:id="@+id/codeDigit4"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp"
+                    android:layout_marginHorizontal="6dp"
+                    android:background="@drawable/bg_code_digit_field"
+                    android:gravity="center"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:cursorVisible="true"
+                    android:importantForAutofill="no" />
+
+            </LinearLayout>
+
+            <!-- Timer / Resend -->
+            <TextView
+                android:id="@+id/resendTimerText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:textColor="#8899AA"
+                android:textSize="14sp"
+                tools:text="Отправить повторно через 55 сек" />
+
+            <TextView
+                android:id="@+id/resendCodeLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:text="@string/resend_code"
+                android:textColor="@color/accent"
+                android:textSize="14sp"
+                android:visibility="gone"
+                android:clickable="true"
+                android:focusable="true" />
+
+            <!-- Confirm Button -->
+            <Button
+                android:id="@+id/confirmCodeButton"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="32dp"
+                android:background="@drawable/bg_button_registration"
+                android:text="@string/confirm_button"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <!-- Back Button -->
+            <Button
+                android:id="@+id/backButton"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="12dp"
+                android:background="@drawable/bg_button_secondary"
+                android:text="@string/back_button"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <!-- Terms Text -->
+            <TextView
+                android:id="@+id/termsText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="24dp"
+                android:gravity="center"
+                android:lineSpacingExtra="4dp"
+                android:text="@string/terms_agreement_text"
+                android:textColor="#667788"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/termsLink"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="32dp"
+                android:text="@string/terms_link"
+                android:textColor="@color/accent"
+                android:textSize="11sp"
+                android:textAllCaps="true"
+                android:clickable="true"
+                android:focusable="true" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <!-- Terms WebView Overlay -->
+    <FrameLayout
+        android:id="@+id/termsOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000"
+        android:visibility="gone"
+        android:clickable="true"
+        android:focusable="true">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_margin="24dp"
+            app:cardBackgroundColor="#0D1B2A"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="8dp"
+            app:strokeWidth="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:padding="16dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="@string/terms_link"
+                        android:textColor="@color/white"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+
+                    <ImageView
+                        android:id="@+id/closeTermsButton"
+                        android:layout_width="32dp"
+                        android:layout_height="32dp"
+                        android:src="@android:drawable/ic_menu_close_clear_cancel"
+                        android:contentDescription="Close"
+                        android:clickable="true"
+                        android:focusable="true"
+                        app:tint="@color/white" />
+
+                </LinearLayout>
+
+                <ProgressBar
+                    android:id="@+id/termsLoadingIndicator"
+                    android:layout_width="match_parent"
+                    android:layout_height="4dp"
+                    android:indeterminateTint="@color/accent"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:indeterminate="true" />
+
+                <WebView
+                    android:id="@+id/termsContentView"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </FrameLayout>
+
+    <!-- Country Selection Dialog overlay -->
+    <FrameLayout
+        android:id="@+id/countryDialogOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80000000"
+        android:visibility="gone"
+        android:clickable="true"
+        android:focusable="true">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="24dp"
+            app:cardBackgroundColor="#0D1B2A"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="8dp"
+            app:strokeWidth="0dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/select_country"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <EditText
+                    android:id="@+id/countrySearchInput"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginTop="12dp"
+                    android:background="@drawable/bg_phone_input_field"
+                    android:hint="@string/search_country"
+                    android:inputType="text"
+                    android:paddingHorizontal="16dp"
+                    android:textColor="@color/white"
+                    android:textColorHint="#667788"
+                    android:textSize="14sp"
+                    android:importantForAutofill="no" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/countryList"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_marginTop="12dp" />
+
+            </LinearLayout>
+
+        </com.google.android.material.card.MaterialCardView>
+
+    </FrameLayout>
+
+</FrameLayout>

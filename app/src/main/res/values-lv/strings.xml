@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Pasaules futbols</string>
+    <string name="euro_football">Eiropas futbols</string>
+    <string name="basketball">Basketbols</string>
+    <string name="hockey">Hokejs</string>
+    <string name="tennis">Teniss</string>
+    <string name="global_champions_cup">Globālais čempionu kauss</string>
+    <string name="continental_premier_league">Kontinentālā Premjerlīga</string>
+    <string name="supreme_basketball_association">Augstākā basketbola asociācija</string>
+    <string name="ice_legends_league">Ledus leģendu līga</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters tūre</string>
+    <string name="standings">Tabula</string>
+    <string name="teams">Komandas</string>
+    <string name="schedule">Grafiks</string>
+    <string name="simulate_match">Simulēt spēli</string>
+    <string name="match_result">Spēles rezultāts</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="reset_all_data">Atiestatīt visus datus</string>
+    <string name="reset_confirm_title">Apstiprināt atiestatīšanu</string>
+    <string name="reset_confirm_message">Vai tiešām vēlaties atiestatīt visus datus? Šo darbību nevar atsaukt.</string>
+    <string name="confirm">Apstiprināt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="data_reset_success">Visi dati ir atiestatīti</string>
+    <string name="delete_account">Dzēst kontu</string>
+    <string name="delete">Dzēst</string>
+
+    <string name="select_home_team">Izvēlēties mājas komandu</string>
+    <string name="select_away_team">Izvēlēties viesu komandu</string>
+    <string name="team_details">Komandas informācija</string>
+    <string name="founded">Dibināta</string>
+    <string name="arena">Arēna</string>
+    <string name="played">S</string>
+    <string name="wins">U</string>
+    <string name="draws">N</string>
+    <string name="losses">Z</string>
+    <string name="points">P</string>
+    <string name="match_simulator">Spēļu simulators</string>
+    <string name="version_label">Versija %s</string>
+    <string name="loading">Ielādē…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Gala rezultāts</string>
+    <string name="match_events">Spēles notikumi</string>
+    <string name="back">Atpakaļ</string>
+    <string name="simulating">Simulē…</string>
+    <string name="period_scores">Periodu rezultāti</string>
+    <string name="recent_matches">Nesenās spēles</string>
+    <string name="no_matches_yet">Vēl nav aizvadītu spēļu</string>
+
     <string name="phone_verification_title">Verifikācija</string>
     <string name="select_country">Izvēlieties savu valsti</string>
-    <string name="enter_phone">Ievadiet savu tālruņa numuru</string>
+    <string name="enter_phone">Ievadiet tālruņa numuru</string>
     <string name="enter_sms_code">Ievadiet SMS kodu</string>
-    <string name="send_code">Nosūtīt kodu</string>
+    <string name="send_code">Sūtīt kodu</string>
     <string name="continue_btn">Turpināt</string>
     <string name="code_sent">Kods nosūtīts!</string>
     <string name="invalid_code">Nederīgs kods</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Kods</string>
     <string name="waiting_for_code">Gaida kodu…</string>
     <string name="search_country">Meklēt valsti</string>
+    
+    <string name="welcome_title">LAIPNI LŪDZAM</string>
+    <string name="welcome_subtitle">oficiālajā sporta lietotnē</string>
+    <string name="phone_number_hint">Tālruņa numurs</string>
+    <string name="phone_helper_text">Izvēlieties valsts kodu un ievadiet tālruņa numuru</string>
+    <string name="registration_button">Reģistrācija</string>
+    <string name="sms_confirmation_free">SMS apstiprinājums ir bezmaksas.\nJūsu dati ir šifrēti.</string>
+    <string name="enter_sms_code_title">Ievadiet SMS kodu</string>
+    <string name="sms_sent_to_number">Mēs nosūtījām kodu uz numuru:</string>
+    <string name="resend_timer">Nosūtīt vēlreiz pēc %d sek</string>
+    <string name="resend_code">Nosūtīt kodu vēlreiz</string>
+    <string name="confirm_button">Apstiprināt</string>
+    <string name="back_button">Atpakaļ</string>
+    <string name="terms_agreement_text">Noklikšķinot uz "Reģistrācija", jūs apstiprināt,\nka esat 18 gadus vecs, esat izlasījis un piekrītat</string>
+    <string name="terms_link">LIETOŠANAS NOTEIKUMIEM UN PRIVĀTUMA POLITIKAI</string>
 </resources>

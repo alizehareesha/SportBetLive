@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Weltfußball</string>
+    <string name="euro_football">Europäischer Fußball</string>
+    <string name="basketball">Basketball</string>
+    <string name="hockey">Eishockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="global_champions_cup">Globaler Champions Cup</string>
+    <string name="continental_premier_league">Kontinentale Premier League</string>
+    <string name="supreme_basketball_association">Supreme Basketball Verband</string>
+    <string name="ice_legends_league">Eis-Legenden Liga</string>
+    <string name="grand_slam_masters_tour">Grand Slam Masters Tour</string>
+    <string name="standings">Tabelle</string>
+    <string name="teams">Mannschaften</string>
+    <string name="schedule">Spielplan</string>
+    <string name="simulate_match">Spiel simulieren</string>
+    <string name="match_result">Spielergebnis</string>
+    <string name="settings">Einstellungen</string>
+    <string name="reset_all_data">Alle Daten zurücksetzen</string>
+    <string name="reset_confirm_title">Zurücksetzen bestätigen</string>
+    <string name="reset_confirm_message">Sind Sie sicher, dass Sie alle Daten zurücksetzen möchten? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="data_reset_success">Alle Daten wurden zurückgesetzt</string>
+    <string name="delete_account">Konto löschen</string>
+    <string name="delete">Löschen</string>
+
+    <string name="select_home_team">Heimmannschaft auswählen</string>
+    <string name="select_away_team">Gastmannschaft auswählen</string>
+    <string name="team_details">Mannschaftsdetails</string>
+    <string name="founded">Gegründet</string>
+    <string name="arena">Arena</string>
+    <string name="played">S</string>
+    <string name="wins">G</string>
+    <string name="draws">U</string>
+    <string name="losses">N</string>
+    <string name="points">PKT</string>
+    <string name="match_simulator">Spielsimulator</string>
+    <string name="version_label">Version %s</string>
+    <string name="loading">Laden…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Endergebnis</string>
+    <string name="match_events">Spielereignisse</string>
+    <string name="back">Zurück</string>
+    <string name="simulating">Simuliere…</string>
+    <string name="period_scores">Periodenergebnisse</string>
+    <string name="recent_matches">Letzte Spiele</string>
+    <string name="no_matches_yet">Noch keine Spiele gespielt</string>
+
     <string name="phone_verification_title">Verifizierung</string>
     <string name="select_country">Wähle dein Land</string>
     <string name="enter_phone">Gib deine Telefonnummer ein</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Code</string>
     <string name="waiting_for_code">Warte auf Code…</string>
     <string name="search_country">Land suchen</string>
+    
+    <string name="welcome_title">WILLKOMMEN</string>
+    <string name="welcome_subtitle">bei der offiziellen Sport-App</string>
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="phone_helper_text">Wähle eine Landesvorwahl und gib deine Telefonnummer ein</string>
+    <string name="registration_button">Registrierung</string>
+    <string name="sms_confirmation_free">SMS-Bestätigung ist kostenlos.\nDeine Daten sind verschlüsselt.</string>
+    <string name="enter_sms_code_title">SMS-Code eingeben</string>
+    <string name="sms_sent_to_number">Wir haben einen Code an die Nummer gesendet:</string>
+    <string name="resend_timer">Erneut senden in %d Sek</string>
+    <string name="resend_code">Code erneut senden</string>
+    <string name="confirm_button">Bestätigen</string>
+    <string name="back_button">Zurück</string>
+    <string name="terms_agreement_text">Mit Klick auf "Registrierung" bestätigst du,\ndass du 18 Jahre alt bist, gelesen hast und akzeptierst</string>
+    <string name="terms_link">NUTZUNGSBEDINGUNGEN UND DATENSCHUTZ</string>
 </resources>

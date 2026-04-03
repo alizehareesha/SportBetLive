@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Piłka nożna światowa</string>
+    <string name="euro_football">Piłka nożna europejska</string>
+    <string name="basketball">Koszykówka</string>
+    <string name="hockey">Hokej</string>
+    <string name="tennis">Tenis</string>
+    <string name="global_champions_cup">Globalny Puchar Mistrzów</string>
+    <string name="continental_premier_league">Kontynentalna Liga Premier</string>
+    <string name="supreme_basketball_association">Najwyższe Stowarzyszenie Koszykówki</string>
+    <string name="ice_legends_league">Liga Lodowych Legend</string>
+    <string name="grand_slam_masters_tour">Turniej Mistrzów Wielkiego Szlema</string>
+    <string name="standings">Tabela</string>
+    <string name="teams">Drużyny</string>
+    <string name="schedule">Terminarz</string>
+    <string name="simulate_match">Symuluj mecz</string>
+    <string name="match_result">Wynik meczu</string>
+    <string name="settings">Ustawienia</string>
+    <string name="reset_all_data">Zresetuj wszystkie dane</string>
+    <string name="reset_confirm_title">Potwierdź reset</string>
+    <string name="reset_confirm_message">Czy na pewno chcesz zresetować wszystkie dane? Tej akcji nie można cofnąć.</string>
+    <string name="confirm">Potwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="data_reset_success">Wszystkie dane zostały zresetowane</string>
+    <string name="delete_account">Usuń konto</string>
+    <string name="delete">Usuń</string>
+
+    <string name="select_home_team">Wybierz drużynę gospodarzy</string>
+    <string name="select_away_team">Wybierz drużynę gości</string>
+    <string name="team_details">Szczegóły drużyny</string>
+    <string name="founded">Założony</string>
+    <string name="arena">Arena</string>
+    <string name="played">M</string>
+    <string name="wins">Z</string>
+    <string name="draws">R</string>
+    <string name="losses">P</string>
+    <string name="points">PKT</string>
+    <string name="match_simulator">Symulator meczy</string>
+    <string name="version_label">Wersja %s</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Wynik końcowy</string>
+    <string name="match_events">Wydarzenia meczu</string>
+    <string name="back">Wstecz</string>
+    <string name="simulating">Symulowanie…</string>
+    <string name="period_scores">Wyniki okresów</string>
+    <string name="recent_matches">Ostatnie mecze</string>
+    <string name="no_matches_yet">Nie rozegrano jeszcze żadnych meczy</string>
+
     <string name="phone_verification_title">Weryfikacja</string>
     <string name="select_country">Wybierz swój kraj</string>
     <string name="enter_phone">Wprowadź numer telefonu</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Kod</string>
     <string name="waiting_for_code">Oczekiwanie na kod…</string>
     <string name="search_country">Szukaj kraju</string>
+    
+    <string name="welcome_title">WITAMY</string>
+    <string name="welcome_subtitle">w oficjalnej aplikacji sportowej</string>
+    <string name="phone_number_hint">Numer telefonu</string>
+    <string name="phone_helper_text">Wybierz numer kierunkowy i wprowadź numer telefonu</string>
+    <string name="registration_button">Rejestracja</string>
+    <string name="sms_confirmation_free">Potwierdzenie SMS jest bezpłatne.\nTwoje dane są szyfrowane.</string>
+    <string name="enter_sms_code_title">Wprowadź kod SMS</string>
+    <string name="sms_sent_to_number">Wysłaliśmy kod na numer:</string>
+    <string name="resend_timer">Wyślij ponownie za %d sek</string>
+    <string name="resend_code">Wyślij ponownie kod</string>
+    <string name="confirm_button">Potwierdź</string>
+    <string name="back_button">Wstecz</string>
+    <string name="terms_agreement_text">Klikając "Rejestracja", potwierdzasz,\nże masz 18 lat, przeczytałeś i akceptujesz</string>
+    <string name="terms_link">REGULAMIN I POLITYKĘ PRYWATNOŚCI</string>
 </resources>

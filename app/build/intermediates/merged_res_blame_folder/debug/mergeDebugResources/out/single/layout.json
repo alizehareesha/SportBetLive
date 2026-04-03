@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_settings.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/activity_account_removal.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/activity_account_removal.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_match_event.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_match_event.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_country.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/activity_browser.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/activity_browser.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/activity_phone_verification.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/activity_phone_verification.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_match_record.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_match_record.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_standing_row.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_standing_row.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_standings.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_standings.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_sport_card.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_sport_card.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_period_score.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_period_score.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_home.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/item_team.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/item_team.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_team_detail.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_team_detail.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/activity_loader.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/activity_loader.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_match_result.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_match_result.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_match_sim.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_match_sim.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_team_list.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_team_list.xml"
+    },
+    {
+        "merged": "com.sportbetlive.sgdsn.app-mergeDebugResources-49:/layout/fragment_sport_league.xml",
+        "source": "com.sportbetlive.sgdsn.app-main-52:/layout/fragment_sport_league.xml"
+    }
+]

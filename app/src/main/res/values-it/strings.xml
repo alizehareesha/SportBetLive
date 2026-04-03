@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Calcio Mondiale</string>
+    <string name="euro_football">Calcio Europeo</string>
+    <string name="basketball">Basket</string>
+    <string name="hockey">Hockey</string>
+    <string name="tennis">Tennis</string>
+    <string name="global_champions_cup">Coppa dei Campioni Globale</string>
+    <string name="continental_premier_league">Lega Premier Continentale</string>
+    <string name="supreme_basketball_association">Associazione Suprema di Basket</string>
+    <string name="ice_legends_league">Lega delle Leggende del Ghiaccio</string>
+    <string name="grand_slam_masters_tour">Tour dei Maestri del Grande Slam</string>
+    <string name="standings">Classifica</string>
+    <string name="teams">Squadre</string>
+    <string name="schedule">Calendario</string>
+    <string name="simulate_match">Simula Partita</string>
+    <string name="match_result">Risultato Partita</string>
+    <string name="settings">Impostazioni</string>
+    <string name="reset_all_data">Ripristina Tutti i Dati</string>
+    <string name="reset_confirm_title">Conferma Ripristino</string>
+    <string name="reset_confirm_message">Sei sicuro di voler ripristinare tutti i dati? Questa azione non può essere annullata.</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="data_reset_success">Tutti i dati sono stati ripristinati</string>
+    <string name="delete_account">Elimina Account</string>
+    <string name="delete">Elimina</string>
+
+    <string name="select_home_team">Seleziona Squadra di Casa</string>
+    <string name="select_away_team">Seleziona Squadra Ospite</string>
+    <string name="team_details">Dettagli Squadra</string>
+    <string name="founded">Fondato</string>
+    <string name="arena">Arena</string>
+    <string name="played">G</string>
+    <string name="wins">V</string>
+    <string name="draws">P</string>
+    <string name="losses">S</string>
+    <string name="points">PTS</string>
+    <string name="match_simulator">Simulatore Partita</string>
+    <string name="version_label">Versione %s</string>
+    <string name="loading">Caricamento…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Punteggio Finale</string>
+    <string name="match_events">Eventi Partita</string>
+    <string name="back">Indietro</string>
+    <string name="simulating">Simulazione…</string>
+    <string name="period_scores">Punteggi per Periodo</string>
+    <string name="recent_matches">Partite Recenti</string>
+    <string name="no_matches_yet">Nessuna partita ancora giocata</string>
+
     <string name="phone_verification_title">Verifica</string>
     <string name="select_country">Seleziona il tuo paese</string>
     <string name="enter_phone">Inserisci il tuo numero di telefono</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Codice</string>
     <string name="waiting_for_code">In attesa del codice…</string>
     <string name="search_country">Cerca paese</string>
+    
+    <string name="welcome_title">BENVENUTO</string>
+    <string name="welcome_subtitle">nell\'app sportiva ufficiale</string>
+    <string name="phone_number_hint">Numero di telefono</string>
+    <string name="phone_helper_text">Seleziona un prefisso e inserisci il tuo numero di telefono</string>
+    <string name="registration_button">Registrazione</string>
+    <string name="sms_confirmation_free">La conferma SMS è gratuita.\nI tuoi dati sono crittografati.</string>
+    <string name="enter_sms_code_title">Inserisci il codice SMS</string>
+    <string name="sms_sent_to_number">Abbiamo inviato un codice al numero:</string>
+    <string name="resend_timer">Reinvia tra %d sec</string>
+    <string name="resend_code">Reinvia codice</string>
+    <string name="confirm_button">Conferma</string>
+    <string name="back_button">Indietro</string>
+    <string name="terms_agreement_text">Cliccando su "Registrazione", confermi\ndi avere 18 anni, di aver letto e accettato</string>
+    <string name="terms_link">TERMINI DI UTILIZZO E INFORMATIVA SULLA PRIVACY</string>
 </resources>

@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">SportBet Live Score Game</string>
+    <string name="world_football">Bola Sepak Dunia</string>
+    <string name="euro_football">Bola Sepak Eropah</string>
+    <string name="basketball">Bola Keranjang</string>
+    <string name="hockey">Hoki</string>
+    <string name="tennis">Tenis</string>
+    <string name="global_champions_cup">Piala Juara Global</string>
+    <string name="continental_premier_league">Liga Perdana Benua</string>
+    <string name="supreme_basketball_association">Persatuan Bola Keranjang Tertinggi</string>
+    <string name="ice_legends_league">Liga Lagenda Ais</string>
+    <string name="grand_slam_masters_tour">Jelajah Grand Slam Masters</string>
+    <string name="standings">Kedudukan</string>
+    <string name="teams">Pasukan</string>
+    <string name="schedule">Jadual</string>
+    <string name="simulate_match">Simulasi Perlawanan</string>
+    <string name="match_result">Keputusan Perlawanan</string>
+    <string name="settings">Tetapan</string>
+    <string name="reset_all_data">Tetapkan Semula Semua Data</string>
+    <string name="reset_confirm_title">Sahkan Tetapan Semula</string>
+    <string name="reset_confirm_message">Adakah anda pasti ingin menetapkan semula semua data? Tindakan ini tidak boleh dibatalkan.</string>
+    <string name="confirm">Sahkan</string>
+    <string name="cancel">Batal</string>
+    <string name="data_reset_success">Semua data telah ditetapkan semula</string>
+    <string name="delete_account">Padam Akaun</string>
+    <string name="delete">Padam</string>
+
+    <string name="select_home_team">Pilih Pasukan Tuan Rumah</string>
+    <string name="select_away_team">Pilih Pasukan Lawan</string>
+    <string name="team_details">Butiran Pasukan</string>
+    <string name="founded">Ditubuhkan</string>
+    <string name="arena">Arena</string>
+    <string name="played">M</string>
+    <string name="wins">M</string>
+    <string name="draws">S</string>
+    <string name="losses">K</string>
+    <string name="points">M</string>
+    <string name="match_simulator">Simulator Perlawanan</string>
+    <string name="version_label">Versi %s</string>
+    <string name="loading">Memuatkan…</string>
+    <string name="vs">VS</string>
+    <string name="final_score">Skor Akhir</string>
+    <string name="match_events">Peristiwa Perlawanan</string>
+    <string name="back">Kembali</string>
+    <string name="simulating">Mensimulasi…</string>
+    <string name="period_scores">Skor Tempoh</string>
+    <string name="recent_matches">Perlawanan Terkini</string>
+    <string name="no_matches_yet">Belum ada perlawanan dimainkan</string>
+
     <string name="phone_verification_title">Pengesahan</string>
     <string name="select_country">Pilih negara anda</string>
     <string name="enter_phone">Masukkan nombor telefon anda</string>
     <string name="enter_sms_code">Masukkan kod SMS</string>
-    <string name="send_code">Hantar kod</string>
+    <string name="send_code">Hantar Kod</string>
     <string name="continue_btn">Teruskan</string>
     <string name="code_sent">Kod dihantar!</string>
     <string name="invalid_code">Kod tidak sah</string>
@@ -12,4 +60,19 @@
     <string name="code_hint">Kod</string>
     <string name="waiting_for_code">Menunggu kod…</string>
     <string name="search_country">Cari negara</string>
+    
+    <string name="welcome_title">SELAMAT DATANG</string>
+    <string name="welcome_subtitle">ke aplikasi sukan rasmi</string>
+    <string name="phone_number_hint">Nombor telefon</string>
+    <string name="phone_helper_text">Pilih kod negara dan masukkan nombor telefon anda</string>
+    <string name="registration_button">Daftar</string>
+    <string name="sms_confirmation_free">Pengesahan SMS adalah percuma.\nData anda disulitkan.</string>
+    <string name="enter_sms_code_title">Masukkan kod SMS</string>
+    <string name="sms_sent_to_number">Kami menghantar kod ke nombor:</string>
+    <string name="resend_timer">Hantar semula dalam %d saat</string>
+    <string name="resend_code">Hantar semula kod</string>
+    <string name="confirm_button">Sahkan</string>
+    <string name="back_button">Kembali</string>
+    <string name="terms_agreement_text">Dengan mengklik "Daftar", anda mengesahkan\nbahawa anda berumur 18 tahun, telah membaca dan menerima</string>
+    <string name="terms_link">TERMA PENGGUNAAN DAN DASAR PRIVASI</string>
 </resources>
