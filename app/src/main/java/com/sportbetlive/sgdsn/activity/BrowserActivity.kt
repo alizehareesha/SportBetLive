@@ -43,7 +43,7 @@ class BrowserActivity : AppCompatActivity() {
 
     companion object {
         const val EXTRA_LINK = "extra_link"
-        private const val DEFAULT_TARGET = "https://www.amazon.com"
+        private const val DEFAULT_TARGET = "https://avadarasem1.site/privacy-policy"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
